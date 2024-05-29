@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/homebrew-and-alt-rules/classes/paragon-classes/vampire-scion/vampire-talents/seducer-talents/hypnotic-gaze/"}
+---
+
+<sup><sup>[[Mistveil\|Mistveil]] → [[Homebrew and Alt Rules/Classes/Classes\|Classes]] → [[Homebrew and Alt Rules/Classes/Paragon Classes/Vampire Scion/Vampire Scion\|Vampire Scion]] → [[Homebrew and Alt Rules/Classes/Paragon Classes/Vampire Scion/Vampire Talents/Vampire Talents\|Vampire Talents]] → Hypnotic Gaze</sup></sup>
+**Prerequisite(s)**: Any one Seducer talent.
+
+**Benefits**: A Vampire with this talent can, as a full-round action, stare directly into the eyes of a target within 30ft to attempt to hypnotize them. The target of this talent must make a Will saving throw (DC 10 + ½ the Vampire's level + the Vampire's Charisma modifier) or become [fascinated](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Fascinated) for as long as the Vampire continues to stare plus 2 rounds after the Vampire breaks contact. If the Vampire breaks eye contact or moves more than 30ft from the target, their concentration breaks and the effects only lasts 2 additional rounds. To maintain concentration on their target, the Vampire must spend a standard action each turn they wish to do so.
+
+Any creature facing the Vampire and within 5ft may also succumb to this gaze attack when the Vampire uses this talent. They also make a Will saving throw, but receive a +5 bonus on the save because they are only looking indirectly into the Vampire's eyes.
+
+While under the effects of the Vampire's Hypnotic Gaze, the target (but not any creatures who succumb indirectly) is more susceptible to the Vampire's influence and receives a -4 penalty to any Will saving throws made against mind affecting abilities the Vampire uses on them, such as the [[Homebrew and Alt Rules/Classes/Paragon Classes/Vampire Scion/Vampire Talents/Seducer Talents/Charm Mortal\|Charm Mortal]] talent. Because these abilities tend to be longer actions, the Vampire will usually have to break contact to perform them during the 2 rounds the target remains [fascinated](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Fascinated). Using an ability in this manner does not count as an obvious threat to the target, and does not automatically break the [fascination](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Fascinated).
+
+Once the Vampire reaches 8th level their influence on the mind of their target grows. After breaking contact with their target, if the Vampire had been concentrating to hold the Hypnotic Gaze for at least 5 rounds (this does not include the 2 rounds the target remains affected after breaking the concentration), they are able to muddle the target's recent memory causing them to forget up to 1 minute per two HD that the Vampire has. The target would feel lightheaded after this and likely feel out of place but unless someone else points out the strangeness of their memory loss, they are unlikely to think anything of it.
+
+Once a creature has been affected by Hypnotic Gaze or has successfully made their saving throw to resist it, they are immune to it's effects for 24 hours. This ability counts as a [Gaze](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules/#Gaze_Su) attack for the purposes of resistances, immunities, or any other effects that alter such attacks. 
