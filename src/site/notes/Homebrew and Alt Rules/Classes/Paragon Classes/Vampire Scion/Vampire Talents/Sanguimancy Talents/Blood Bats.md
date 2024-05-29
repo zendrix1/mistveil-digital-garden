@@ -1,0 +1,12 @@
+---
+{"dg-publish":true,"permalink":"/homebrew-and-alt-rules/classes/paragon-classes/vampire-scion/vampire-talents/sanguimancy-talents/blood-bats/"}
+---
+
+<sup><sup>[[Mistveil\|Mistveil]] → [[Homebrew and Alt Rules/Classes/Classes\|Classes]] → [[Homebrew and Alt Rules/Classes/Paragon Classes/Vampire Scion/Vampire Scion\|Vampire Scion]] → [[Homebrew and Alt Rules/Classes/Paragon Classes/Vampire Scion/Vampire Talents/Vampire Talents\|Vampire Talents]] → Blood Bats</sup></sup>
+**Benefits**: A number of times per day equal to 2 plus half the Vampire's level, a Vampire with this talent can make a small cut on their own body to summon forth a swarm of bats made of black blood. This cut deals 5 points of damage to the Vampire that cannot be healed with their Fast Healing ability until they are out of combat for at least one minute. The Vampire can target an opponent within 60 ft and order this swarm of Blood Bats to attack, burst, or distract.
+
+If ordered to attack, the Blood Bats begin slashing and biting the target dealing 1d6 damage per level. The target can make a fortitude saving throw (DC 10 + ½ the Vampire's level + the Vampire's Charisma modifier) to prevent half of this damage.
+
+If ordered to burst, the Blood Bats fly at the target and explode when coming in contact with them, covering them in thick sticky blood, slowing them down. If the target fails a reflex saving throw (DC 10 + ½ the Vampire's level + the Vampire's Charisma modifier) they are *[slowed](https://www.d20pfsrd.com/magic/all-spells/s/slow/)* (as per the spell) for 1 round per level. Once per round as a standard action, the victim of this effect can attempt a strength check or escape artist skill check with the same DC to end the effect early.
+
+If ordered to distract, the Blood Bats swarm around the target's face and limbs to try and catch them off guard. If the affected creature fails a fortitude saving throw (DC 10 + ½ the Vampire's level + the Vampire's Charisma modifier), they lose any prepared actions they are holding, become flat-footed until the start of the Vampire's next turn, and at the end of the current round of combat the target rerolls their initiative to determine their placement in the initiative order. If their rerolled initiative is higher than their initial result, their position in the initiative order does not change. 
