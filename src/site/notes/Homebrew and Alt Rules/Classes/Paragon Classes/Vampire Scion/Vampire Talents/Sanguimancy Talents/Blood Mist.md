@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/homebrew-and-alt-rules/classes/paragon-classes/vampire-scion/vampire-talents/sanguimancy-talents/blood-mist/"}
+---
+
+<sup><sup>[[Mistveil\|Mistveil]] → [[Homebrew and Alt Rules/Classes/Classes\|Classes]] → [[Homebrew and Alt Rules/Classes/Paragon Classes/Vampire Scion/Vampire Scion\|Vampire Scion]] → [[Homebrew and Alt Rules/Classes/Paragon Classes/Vampire Scion/Vampire Talents/Vampire Talents\|Vampire Talents]] → Blood Mist</sup></sup>
+**Benefits**: A Vampire with this talent can conjure a cloud of red mist which can provide the Vampire with cover and chokes those unfortunate enough to be within the cloud. The Vampire can use this talent a number of times per day equal to half their level rounded down (minimum 1). This talent acts as an *[Obscuring Mist](https://www.d20pfsrd.com/magic/all-spells/o/obscuring-mist/)* with a caster level equal to the Vampire's level except it lasts 1 round per level, can be conjured at a medium range (100 ft. + 10 ft./level), and any living creature that begins their turn within the mist who isn't already suffering from it's effect must make a Fortitude saving throw (DC 10 + ½ the Vampire's level + the Vampire's Charisma modifier) or become staggered for 1d4 rounds. 
