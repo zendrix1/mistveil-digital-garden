@@ -1,0 +1,51 @@
+---
+{"dg-publish":true,"permalink":"/homebrew-and-alt-rules/races/core-races/dhampir/"}
+---
+
+<sup><sup>[[Mistveil\|Mistveil]] → [[Homebrew and Alt Rules/Races/Races\|Races]] → Dhampir</sup></sup>
+An extremely rare and tragic race, Dhampir are a result of a bond between a Vampire and a [[Homebrew and Alt Rules/Races/Core Races/Humans\|Human]] or [[Homebrew and Alt Rules/Races/Core Races/High Elves\|Elf]]. This bond is not the result of traditional sex or even rape however, a Dhampir is born when a pregnant woman who is very close to going into labor, is attacked by a vampire. If the child manages to survive somehow, they will absorb tainted blood through their mother and take on traits from the attacker. Their hair, eye, and skin colors resemble unnerving versions of their mothers’; many possess a ghastly pallor, particularly in the sunlight, while those with dark complexions often possess skin the color of a bruise. While many Dhampir can pass as humans in ideal conditions, their features are inevitably more pronounced and they move with an unnaturally fluid grace. All Dhampir have elongated incisors and while not true fangs, these teeth are sharp enough to draw blood and many suffer a reprehensible desire to indulge in sanguinary delights despite the fact that the act provides most Dhampir with no physical benefit. 
+#### Dhampir in [[Known Continents/Mortend/Countries/Baylore/Divine Kingdom of Baylore\|Baylore]]
+Dhampir are mostly unknown across Baylore but if their origin was found out rest assured they would likely be chased from towns or even hunted down. 
+
+![dhampir_female.jpg|328](/img/user/Attachments/dhampir_female.jpg) ![dhampir_male.png|300](/img/user/Attachments/dhampir_male.png)
+
+### Dhampir Racial Traits
+- Ability Score Racial Traits: Dhampir are fast and seductive, but their racial bond to the undead impedes their mortal vigor. They gain +2 Dexterity, +2 Charisma, and –2 Constitution.
+- Type: Dhampir are humanoids with the dhampir subtype.
+- Size: Dhampir are Medium creatures and thus have no bonuses or penalties due to their size.
+- Base Speed: Dhampir have a base speed of 30 feet.
+- Undead Resistance: Dhampir gain a +2 racial bonus on saving throws against disease and mind-affecting effects.
+- Resist Level Drain (Ex): Dhampir take no penalties from energy drain effects, though he can still be killed if he accrues more negative levels then he has Hit Dice. After 24 hours, any negative levels a Dhampir takes are removed without the need for an additional saving throw.
+- Manipulative: Dhampir gain a +2 racial bonus on [Bluff](http://www.d20pfsrd.com/skills/bluff) and [Perception](http://www.d20pfsrd.com/skills/perception) checks.
+- Spell-Like Abilities (Su): Dhampir can use [*Detect Undead*](http://www.d20pfsrd.com/magic/all-spells/d/detect-undead) three times per day as a spell-like ability. The caster level for this ability equals the Dhampir’s level.
+- [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Darkvision\|Superior Darkvision]]: Dhampir see perfectly in the dark up to 60 feet.
+- Light Sensitivity: Dhampir are [dazzled](http://www.d20pfsrd.com/gamemastering/conditions#TOC-Dazzled) in areas of bright sunlight or within the radius of a [*Daylight*](http://www.d20pfsrd.com/magic/all-spells/d/daylight) spell.
+- Negative Energy Affinity: Though a living creature, Dhampir react to positive and negative energy as if they were undead; positive energy harms it, while negative energy heals it.
+- Tainted Ancestry: Dhampir sorcerers with the [[Homebrew and Alt Rules/Classes/Class Features/Tainted Bloodline\|Tainted Bloodline]] treat their Charisma score as 2 points higher for all sorcerer spells and class abilities.
+- Age: Dhampir age very slowly, reaching each age category in twice as many years as their mortal parent would have.
+<br>
+#### Dhampir Alternate Racial Traits
+- Dayborn: A few fortunate Dhampir were born during the day under the blessings of priests, and their blood has weaker ties to their undead bloodline than others of their kind. Such Dhampir are unhindered by daylight and lose the light sensitivity racial trait in addition the Dhampir's ability to see in the dark lessens, they gain the [Low-Light Vision](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Low-Light-Vision) racial ability. This raical trait replaces Superior Darkvision, Negative Energy Affinity, and Resist Level Drain.
+- Fangs: On occasion, Dhampir may inherit his father’s lengthy canines. Whenever the Dhampir makes a grapple combat maneuver check to damage an opponent, he can choose to bite his opponent, dealing 1d3 points of damage as if using a natural bite attack. As a standard action, the Dhampir can bite a creature that is bound, helpless, paralyzed, or similarly unable to defend itself. This racial trait replaces the spell-like ability racial trait.
+- Heir to Undying Nobility: Descended from undead nobility some Dhampir inherit a bit of their ancestors’ ability to control living beings. They can use [*Command*](http://www.d20pfsrd.com/magic/all-spells/c/command) and [*Charm Person*](http://www.d20pfsrd.com/magic/all-spells/c/charm-person) each once per day. This racial trait replaces the spell-like ability racial trait.
+- Vampire Hunter: Some Dhampir bear a deep hatred for their undead progenitors and their kin that can never be fully quenched. They gain a +1 bonus on attack rolls against vampires. This racial trait replaces manipulative.
+- Vampiric Empathy: Though Dhampir often relate poorly to humanoids, some share an affinity with baser creatures. These Dhampir gain the ability to communicate with bats, rats, and wolves as if under the effects of a [*Speak with Animals*](http://www.d20pfsrd.com/magic/all-spells/s/speak-with-animals) spell (caster level equal to 1/2 the Dhampir’s Hit Dice). In addition, they gain a +2 racial bonus on [Diplomacy](http://www.d20pfsrd.com/skills/diplomacy) checks when dealing with these animals. Whenever these Dhampir initiate an exchange, animals begin with a starting attitude of indifferent. This is a supernatural ability. This racial trait replaces manipulative.
+
+> [!TODO] TODO
+> Something to replace tainted ancestry
+<br>
+#### Dhampir Favored Class Bonuses
+- [Barbarian](https://www.d20pfsrd.com/classes/core-classes/barbarian/): Add +1/4 to the damage of a bite attack.
+- [Bard](http://www.d20pfsrd.com/classes/core-classes/bard/): Add a +1/3 bonus to the DC of the fascinate ability.
+- [Cleric](https://www.d20pfsrd.com/classes/core-classes/cleric/): Add +1 to the caster level of any channeling feat used to affect undead.
+- [Druid](https://www.d20pfsrd.com/classes/core-classes/druid/): Add +1/4 to the damage of a bite attack.
+- [Fighter](https://www.d20pfsrd.com/classes/core-classes/fighter/): Add a +2 bonus on rolls to stabilize when dying.
+- [Inquisitor](http://www.d20pfsrd.com/classes/base-classes/inquisitor/): Add a +1/2 bonus on [Intimidate](http://www.d20pfsrd.com/skills/intimidate) checks to demoralize humanoids.
+- [Magus](https://www.d20pfsrd.com/classes/base-classes/magus/): Add +1/3 on critical hit confirmation rolls when using spell combat (maximum bonus of +5). This bonus does not stack with Critical Focus.
+- [Monk](https://www.d20pfsrd.com/classes/core-classes/monk/): Add +1/4 to the damage of an unarmed strike.
+- [Oracle](https://www.d20pfsrd.com/classes/base-classes/oracle/): Add +1/2 point of negative energy damage to spells that deal negative energy damage.
+- [Paladin](https://www.d20pfsrd.com/classes/core-classes/paladin/): Add a +1/3 bonus on saving throws against death effects.
+- [Rogue](http://www.d20pfsrd.com/classes/core-classes/rogue/): Add a +1/2 bonus on [Stealth](http://www.d20pfsrd.com/skills/stealth) checks and [Perception](http://www.d20pfsrd.com/skills/perception) checks made in dim light or darkness.
+- [Sorcerer](https://www.d20pfsrd.com/classes/core-classes/sorcerer/): Add +1/3 to the Sorcerer's caster level when casting spells of the necromancy school.
+- [Witch](http://www.d20pfsrd.com/classes/base-classes/witch/): Add +1/4 to the witch’s caster level when casting spells of the necromancy school.
+- [Wizard](https://www.d20pfsrd.com/classes/core-classes/wizard/): Add +1/4 to the wizard’s caster level when casting spells of the necromancy school.
