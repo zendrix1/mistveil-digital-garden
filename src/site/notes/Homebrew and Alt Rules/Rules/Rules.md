@@ -1,0 +1,61 @@
+---
+{"dg-publish":true,"permalink":"/homebrew-and-alt-rules/rules/rules/"}
+---
+
+<sup><sup>[[Mistveil\|Mistveil]] → Rules</sup></sup> 
+### Homebrew / Alternate Rules
+
+|                                                                        **Rule**                                                                        |                                        **Description**                                         |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: |
+|                                                            [[Homebrew and Alt Rules/Rules/Animal Companion Multiattack\|Animal Companion Multiattack]]                                                            |        Animal Companions can choose Multiattack or an extra primary attack at level 9.         |
+|                                                             [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Athletics\|Athletics Skill]]                                                             |                          Climb and Swim are combined into Athletics.                           |
+|                                                                     [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Darkvision\|Darkvision]]                                                                     |                 Regular darkvision only gives low-light in complete darkness.                  |
+|                                                           [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Critical Hits - Automatic Hit\|Critical Hits - Automatic Hit]]                                                            |                Critical attack rolls automatically hit, not just Natural 20's.                 |
+|                                                                  [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Effective Rests\|Effective Rests]]                                                                   |                                  Heal more during long rests.                                  |
+| [Elephant in the Room: Feat Tax Removal](https://michaeliantorno.com/wp-content/uploads/2018/06/The-Elephant-in-the-Room-Feat-Taxes-in-Pathfinder.pdf) |           Combine some feats to eliminate heavy feat tax on certain character types.           |
+|                                                           [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Enhancement Bonus Requirement\|Enhancement Bonus Requirement]]                                                            |          Armor and weapons no longer require at least a +1 to have magical qualities.          |
+|                                                               [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Favored Prestige Class\|Favored Prestige Class]]                                                               |              Gain favored class bonuses while taking levels in prestige classes.               |
+|                                                                       [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Flaws\|Flaws]]                                                                        |                 Take penalties during character creation to gain bonus feats.                  |
+|                                                                 [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Forgiving Hit Dice\|Forgiving Hit Dice]]                                                                 |                                 Reroll 1's on Hit Dice rolls.                                  |
+|                                                                      [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Gambling\|Gambling]]                                                                      |                           Use skills to play a game of 1v1 gambling.                           |
+|                                                                   [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Glancing Blows\|Glancing Blows]]                                                                   |                    Hitting the target's AC results in a less powerful blow.                    |
+|                                     [Hero Points](https://www.d20pfsrd.com/gamemastering/other-rules/hero-points/)                                     |                 Gain a pool of points that can be spent to perform great acts.                 |
+|                                                              [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Identifying Magic Items\|Identifying Magic Items]]                                                               |                   Change to how magic items are identified with Spellcraft.                    |
+|                                                         [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Improved Spontaneous Spellcasting\|Improved Spontaneous Spellcasting]]                                                          |   Sorcerers, Psychics, and Oracles learn spell levels at the same rate as prepared casters.    |
+|                                                       [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Interaction between Psionics and Magic\|Interaction between Psionics and Magic]]                                                       |          Some differences from Dreamscarred Press take on combining the two systems.           |
+|                                 [Make Craft Work](https://www.d20pfsrd.com/skills/craft/alternative-craft-rules-3pp/)                                  | Rules for using the Craft skill that are easier to follow and allow for more adventuring time. |
+|                                                     [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Moving Through and Sharing an Ally's Space\|Moving Through and Sharing an Ally's Space]]                                                     |              Movement requirements for moving through occupied spaces of allies.               |
+|                                                                   [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Native Subtype\|Native Subtype]]                                                                   |        Native outsiders count as Humanoids and Outsiders for all abilities and spells.         |
+|                                                                  [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Skill Challenges\|Skill Challenges]]                                                                  |        Cinematic moments where party members overcome obstacles by making skill rolls.         |
+|                                                            [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Spell Trigger Item Recharge\|Spell Trigger Item Recharge]]                                                             |                    Use item creation rules to recharge spell trigger items.                    |
+|                                        [Unchained Classes](https://mistveil.fandom.com/wiki/Unchained_Classes)                                         |                 Unchained versions of classes are used over original classes.                  |
+
+<br>
+
+### Rules for In-Person Games only
+
+|                                                            **Rule**                                                            |                                                 **Description**                                                  |
+| :----------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
+|                                                      [[Homebrew and Alt Rules/Rules/In-Person Games/Ammunition Dice\|Ammunition Dice]]                                                       |                 Use decreasing dice size to represent ammo rather than tracking each arrow/bolt.                 |
+| [Automatic Bonus Progression](https://www.d20pfsrd.com/gamemastering/other-rules/unchained-rules/automatic-bonus-progression/) | Removal of the "Big Six" magic items, automatic bonuses to your stats as you level up, reduced character wealth. |
+|                                                            [[Homebrew and Alt Rules/Rules/In-Person Games/Bulk\|Bulk]]                                                            |                           Pathfinder 2e Bulk system modified slightly for 1st edition.                           |
+
+<br>
+
+### Pre-Approved 3rd Party Content
+
+|              **Rule**              |                                                                                          **Description**                                                                                         |
+|:----------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [Dreamscarred Press Psionics System](https://www.d20pfsrd.com/alternative-rule-systems/psionics-unleashed/) |                                                                            Psionic classes, races, items, feats, etc.                                                                            |
+|         [Legendary Summoner](https://www.d20pfsrd.com/classes/base-classes/summoner/archetypes/summoner-archetypes-legendary-games/)         |                                   Archetypes, spells, etc for the Unchained Summoner class. Link is to the archetypes but all content in the book is approved.                                   |
+|           [Spheres System](http://spheresofpower.wikidot.com/)           | Alternate rule systems for many systems such as magic and martial abilities. Currently allowed to be used alongside vanilla Pathfinder systems. All content approved (Power, Might, Guile, etc). |
+
+<br>
+
+### Rules Not Currently Being Used
+
+|                                                            **Rule**                                                            |                                                 **Description**                                                  |
+| :----------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
+|                                                    [[Homebrew and Alt Rules/Rules/Not in Use/Language Percentages\|Language Percentages]]                                                    |                   Learn languages overtime and roll to see how well you understood something.                    |
+|                                                        [[Homebrew and Alt Rules/Rules/Not in Use/Luck Points\|Luck Points]]                                                         |                  A frequently filled pool of points used to increase the results of d20 rolls.                   |
+|           [Spell-Points Magic System](https://www.d20pfsrd.com/magic/variant-magic-rules/spell-points-magic-system)            |                        Replace spells per day with a pool of spell points to cast spells.                        |
