@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/known-continents/mortend/countries/baylore/people/erick-grimshaw/"}
+---
+
+<sup><sup>[[Mistveil\|Mistveil]] → [[Known Continents/Mortend/Mortend\|Mortend]] → [[Known Continents/Mortend/Countries/Baylore/Divine Kingdom of Baylore\|Baylore]] → [[Known Continents/Mortend/Countries/Baylore/locations/Cliffside\|Cliffside]] → Erick Grimshaw</sup></sup>
+A young, nervous, [[Homebrew and Alt Rules/Races/Half-Races/Half-Elves\|Half-Elf]] mage living in the mining town of [[Known Continents/Mortend/Countries/Baylore/locations/Cliffside\|Cliffside]], Erick Grimshaw was appointed a position of governance by his master (and co-founder of the town), [[Rexius Artanis\|Rexius Artanis]]. Erick wasn't the type to lead however and quickly backed out of his role in favor of being a simple shop keeper. He ran a small nameless magic shop and supplied the town's miners with potions and magical trinkets to make their lives easier, including a mask that protects from the sediment clouds that had been kicked up by tremors that were rampant in the area until recently. He still writes reports to [[Rexius Artanis\|Rexius]] every month and although he knows they are delivered successfully (his sparrow familiar delivers them personally), he rarely hears back from his master. Despite this Erick has nothing but respect and admiration for the man and is quick to talk about him to anyone who will listen.
+
+After the [[Formian\|Formian]] attack on [[Known Continents/Mortend/Countries/Baylore/locations/Cliffside\|Cliffside]], Erick agreed to leave the town with a group of outsiders to go to [[Sandguard Fort\|Sandguard]] to attempt to get back in contact with his mentor, report the odd events happening, and seek counsel on the potential ways to repair the outsider's airship, the [[Dawnstrider\|Dawnstrider]]. 
+
+![Erick_Grimshaw.webp](/img/user/Attachments/Erick_Grimshaw.webp)
