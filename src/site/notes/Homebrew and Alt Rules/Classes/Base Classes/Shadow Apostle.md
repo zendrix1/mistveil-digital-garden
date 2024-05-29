@@ -23,7 +23,7 @@ The Shadow Apostle’s class skills are Acrobatics (Dex), Bluff (Cha), Climb (St
 
 <sub><sub>Table: Shadow Apostle</sub></sub>
 
-| **Level ** | **BAB **  | **Fort ** | **Ref ** | **Will ** |                               **Special **                               |
+| **Level** | **BAB**  | **Fort** | **Ref** | **Will** |                               **Special**                               |
 |:----------:|:---------:|:---------:|:--------:|:---------:|:------------------------------------------------------------------------:|
 |    1st     |    +0     |    +0     |    +2    |    +2     | [[Homebrew and Alt Rules/Classes/Base Classes/Shadow Apostle#Channel Energy (Su)\|Channel Energy]] 1d6, [[Homebrew and Alt Rules/Classes/Base Classes/Shadow Apostle#Domain\|Domain]], [[Homebrew and Alt Rules/Classes/Base Classes/Shadow Apostle#Finesse Training (Ex)\|Finesse Training]], [[Homebrew and Alt Rules/Classes/Base Classes/Shadow Apostle#Orisons\|Orisons]], [[Homebrew and Alt Rules/Classes/Base Classes/Shadow Apostle#Sneak Attack\|Sneak Attack]] +1d6 |
 |    2nd     |    +1     |    +0     |    +3    |    +3     |                     [[Homebrew and Alt Rules/Classes/Base Classes/Shadow Apostle#Sacred Stealth (Su)\|Sacred Stealth]], [[Homebrew and Alt Rules/Classes/Base Classes/Shadow Apostle#Shadowbane Power\|Shadowbane Power]]                     |
