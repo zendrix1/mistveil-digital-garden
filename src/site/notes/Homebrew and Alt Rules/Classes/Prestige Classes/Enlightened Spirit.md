@@ -20,7 +20,7 @@ The Enlightened Spirit's class skills are Acrobatics (Dex), Bluff (Cha), Craft (
 Skill Ranks at Each Level: 4 + Int modifier.
 <sub><sub>Table: Enlightened Spirit</sub></sub>
 
-| **Level ** | **BAB ** | **Fort ** | **Ref ** | **Will ** |                                   **Special **                                   |      **Spellcasting **      |
+| **Level** | **BAB** | **Fort** | **Ref** | **Will** |                                   **Special**                                   |      **Spellcasting**      |
 |:----------:|:--------:|:---------:|:--------:|:---------:|:--------------------------------------------------------------------------------:|:---------------------------:|
 |    1st     |    +0    |    +1     |    +0    |    +1     | [[Homebrew and Alt Rules/Classes/Prestige Classes/Enlightened Spirit#Aura of Courage (Su)\|Aura of Courage]], [[Homebrew and Alt Rules/Classes/Prestige Classes/Enlightened Spirit#Aura of Menace (Su)\|Aura of Menace]], [[Homebrew and Alt Rules/Classes/Prestige Classes/Enlightened Spirit#Eldritch Advancement\|Eldritch Advancement]], [[Homebrew and Alt Rules/Classes/Prestige Classes/Enlightened Spirit#New Spells\|New Spells]], [[Homebrew and Alt Rules/Classes/Prestige Classes/Enlightened Spirit#Spirit Blast (Su)\|Spirit Blast]]  | +1 level of existing class  |
 |    2nd     |    +1    |    +1     |    +1    |    +1     |                               [[Homebrew and Alt Rules/Classes/Prestige Classes/Enlightened Spirit#Spirit Armor (Su)\|Spirit Armor]] (+1 AC)                               | +1 level of existing class  |
