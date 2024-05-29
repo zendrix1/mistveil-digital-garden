@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/known-continents/mortend/countries/baylore/people/kurt-fabari/"}
+---
+
+<sup><sup>[[Mistveil\|Mistveil]] → [[Known Continents/Mortend/Mortend\|Mortend]] → [[Known Continents/Mortend/Countries/Baylore/Divine Kingdom of Baylore\|Baylore]] → [[Known Continents/Mortend/Countries/Baylore/locations/Cliffside\|Cliffside]] → Kurt Fabari</sup></sup>
+Without doubt the wealthiest man in [[Known Continents/Mortend/Countries/Baylore/locations/Cliffside\|Cliffside]], Kurt Fabari comes from the family who owned a farm on the land where the town of [[Known Continents/Mortend/Countries/Baylore/locations/Cliffside\|Cliffside]] was formed. His family was promised a percentage of the profit from the mines if they agreed to let them be dug on their lands and throughout the years the Fabari family has maneuvered to make that percentage higher and higher which has brought them great wealth. They have been well liked in the town however and take great pains to ensure the safety of the miners and, despite his famed grumpiness and fading memory, Kurt has upheld that image. Kurt's son [[Known Continents/Mortend/Countries/Baylore/people/Alec Fabari\|Alec Fabari]] was suppose to take over for Kurt very soon as the head of the house and manager of the mines due to Kurt's worsening dementia but tragically [[Known Continents/Mortend/Countries/Baylore/people/Alec Fabari\|Alec]] was slain by the [[Formian\|Formian]] while defending his father and other citizens that fled to the local inn when the creatures raided the town. 
+
+![kurt fabari.jpg](/img/user/Attachments/kurt%20fabari.jpg)
