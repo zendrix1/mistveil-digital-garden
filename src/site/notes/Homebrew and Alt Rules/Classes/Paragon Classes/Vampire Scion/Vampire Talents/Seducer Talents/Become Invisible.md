@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/homebrew-and-alt-rules/classes/paragon-classes/vampire-scion/vampire-talents/seducer-talents/become-invisible/"}
+---
+
+<sup><sup>[[Mistveil\|Mistveil]] → [[Homebrew and Alt Rules/Classes/Classes\|Classes]] → [[Homebrew and Alt Rules/Classes/Paragon Classes/Vampire Scion/Vampire Scion\|Vampire Scion]] → [[Homebrew and Alt Rules/Classes/Paragon Classes/Vampire Scion/Vampire Talents/Vampire Talents\|Vampire Talents]] → Become Invisible</sup></sup>
+**Prerequisite(s)**: Any three Seducer talents, [[Homebrew and Alt Rules/Classes/Paragon Classes/Vampire Scion/Vampire Talents/Seducer Talents/Dampened Presence\|Dampened Presence]].
+
+**Benefits**: For a number of minutes per day equal to their level (the minutes do not need to be consecutive, but are used in minute increments. The talent can be ended early but the entire minute is still used), a Vampire with this talent can, as a standard action, bend the light around them to make themselves become invisible, as per the *[Invisibility](https://www.d20pfsrd.com/magic/all-spells/i/invisibility/)* spell.
+
+Once the Vampire reaches 8th level they can choose to create a more potent form of invisibility as per the *[Greater Invisibility](https://www.d20pfsrd.com/magic/all-spells/i/invisibility/)* spell but doing so is more difficult and each round spent in this enhanced form of invisibility uses 1 minute of their total allotted duration. The Vampire can switch their two forms of invisibility without becoming visible first at the start of each round. Switching from regular invisibility to greater invisibility counts as another use of this talent, hence it wastes any remaining time on the 1 minute increment the vampire was using. Switching from greater invisibility to regular invisibility has no such penalty, the Vampire simply begins their next 1 minute increment. 
