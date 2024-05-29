@@ -1,0 +1,45 @@
+---
+{"dg-publish":true,"permalink":"/homebrew-and-alt-rules/races/core-races/sylphs/fire-sylphs/"}
+---
+
+<sup><sup>[[Mistveil\|Mistveil]] → [[Homebrew and Alt Rules/Races/Races\|Races]] → [[Homebrew and Alt Rules/Races/Core Races/Sylphs/Sylphs\|Sylphs]] → Fire Sylphs</sup></sup>
+Fire Sylphs are usually tall, lean, and have red or orange markings on their body resembling flames. Some unique traits they might display could thin trails of smoke coming from their eyes and mouth when angry or feeling very warm to the touch.
+
+![fire sylph.jpg|300](/img/user/Attachments/fire%20sylph.jpg)
+
+### Fire Sylph Racial Traits
+- Ability Score Racial Traits: Fire Sylphs are cunning and strong but tend to brash and quick to act. They gain +2 Str, +2 Cha, and -2 Wis.
+- Size: Fire Sylphs are Medium creatures.
+- Type: Fire Sylphs are Outsiders with the [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Native Subtype\|Native Subtype]].
+- Base Speed: Fire Sylphs have a base speed of 30 feet.
+- Languages: Fire Sylph's native language is Ignan.
+- Energy Resistance: Fire Sylphs have Cold Resistance of 5.
+- Spell-Like Ability (Sp): Fire Sylphs can use [*Produce Flame*](https://www.d20pfsrd.com/magic/all-spells/p/produce-flame/) 1/day (caster level equals the Fire Sylph's character level).
+- Low-Light Vision: Fire Sylphs can see twice as far as normal in dim light.
+- Focus Fire: Fire Sylphs have the ability to completely focus on one enemy during a fight, funneling all their anger and passion towards them. While focusing like this the Fire Sylph gains a bonus to attack and damage equal to 1/2 of their character level (minimum 1; maximum 5) however they get the same penalty to their Armor Class as they lash out recklessly. Using Focus Fire is a swift action that does not provoke an attack of opportunity and the Fire Sylph can choose each turn to continue or end the ability. This outburst of energy and focus is tiring for Fire Sylphs and as such they can only use this ability a number of rounds per day equal to 1/2 of their character level + their Charisma modifier (minimum 1), these rounds do not need to be consecutive.
+- Fire Affinity: Fire Sylphs with the [elemental (fire) bloodline](https://www.d20pfsrd.com/classes/core-classes/sorcerer/bloodlines/bloodlines-from-paizo/elemental-bloodline) treat their Charisma score as 2 points higher for all sorcerer spells and class abilities. Fire Sylph spellcasters with the [Fire Domain](https://www.d20pfsrd.com/classes/core-classes/cleric/domains/paizo-domains/fire-domain/) use their domain powers and spells at +1 caster level.
+- Age: Sylphs age at a slightly faster rate of whatever race they were before becoming infused with elemental energy. They reach each age category 25% faster than their born race.
+<br>
+#### Fire Sylph Alternate Racial Traits
+- Fire Insight: Fire Sylph spellcasters sometimes find that their elemental heritage makes creatures of Fire more willing to serve them. [*Summon Monster*](https://www.d20pfsrd.com/magic/all-spells/s/summon-monster) and [*Summon Nature’s Ally*](https://www.d20pfsrd.com/magic/all-spells/s/summon-natures-ally) spells that the Fire Sylph casts last 2 rounds longer than normal when used to summon creatures with the [Fire Subtype](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types/#TOC-Fire-Subtype). This racial trait replaces Fire Affinity.
+- Spread like Wildfire: Fire is unpredictable and moves suddenly, some Fire Sylphs can mimic this movement. Fire Sylphs with this ability can move 5ft as an immediate action once per encounter. This racial trait replaces Energy Resistance.
+- Subtle Change: Some Fire Sylphs have appearances much closer to the race they were before their transformation occured; in fact, they may not even realize their true race. Such Fire Sylphs appear to be whichever race they belonged to previously, save perhaps minor features like unusual eye color, and they count as humanoid, with the same subtype as their original race, as well as outsider ([[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Native Subtype\|native]]) for all purposes (such as humanoid-affecting spells such as _charm person_ or enlarge person). These Fire Sylphs do not automatically gain the Ignan language (but may select it as a bonus language if their Intelligence is high enough). This ability alters the Fire Sylph's type, subtype, and languages.
+- Flame Speaker: Fire Sylphs with this racial trait feel kinship toward the creatures that feel at home within extreme heat, and can use [*Speak With Animals*](https://www.d20pfsrd.com/magic/all-spells/s/speak-with-animals) once per day to speak to animals that live in a desert or volcanic climate. Her caster level for these effects is equal to her character level. This racial trait replaces the Fire Sylph’s spell-like ability racial trait.
+- Weather Savvy: Some Fire Sylphs are so in tune with the natural state of the elements that they can sense the slightest change in atmospheric conditions. Fire Sylphs with this trait can spend a full-round action to predict the weather in an area for the next 24 hours. The Fire Sylph's prediction is always accurate, but cannot account for spells or supernatural effects that might alter the forecast. This racial trait replaces the Fire Sylph’s spell-like ability racial trait.
+- Fiery Temperament: Fire Sylphs pride and passion can easily lead them to making challenges of others in combat. Fire Sylphs with this racial gain [Call Out](https://www.d20pfsrd.com/feats/combat-feats/call-out-combat) as a bonus feat. This racial trait replaces Fire Affinity.
+- Strike a Spark: Some Fire Sylphs embody the quick movement and striking force of fire rather than the mental prowess of it. Fire Sylphs with this racial trait gain [Improved Initiative](https://www.d20pfsrd.com/feats/combat-feats/improved-initiative-combat-final/) as a bonus feat. This racial trait replaces Fire Affinity.
+<br>
+#### Fire Sylph Favored Class Bonuses
+- [Barbarian](https://www.d20pfsrd.com/classes/core-classes/barbarian/): Add +1 to the barbarian’s total number of rage rounds per day.
+- [Bard](http://www.d20pfsrd.com/classes/core-classes/bard/): Add one spell known from the bard spell list. This spell must be at least one level below the highest spell level the bard can cast.
+- [Bloodrager](http://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/): Increase the bloodrager’s total number of bloodrage rounds per day by 1.
+- [Cleric](https://www.d20pfsrd.com/classes/core-classes/cleric/): Add a +1/2 bonus on Knowledge (planes) checks relating to The Elemental Conflux and creatures with the fire subtype.
+- [Druid](https://www.d20pfsrd.com/classes/core-classes/druid/): Add a +1/2 bonus on Knowledge (nature) checks relating to weather and animals that live in desert or volcanic areas.
+- [Magus](https://www.d20pfsrd.com/classes/base-classes/magus/): Add +1/2 point of fire damage to spells that deal fire damage cast by the magus.
+- [Oracle](https://www.d20pfsrd.com/classes/base-classes/oracle/): Add +1/6 to the oracle’s level for the purpose of determining the effects of one revelation.
+- [Rogue](http://www.d20pfsrd.com/classes/core-classes/rogue/): Add +1 to the number of times per day the rogue can cast a cantrip or 1st-level spell gained from the minor magic or major magic talent. The number of times this bonus is selected for the major magic talent cannot exceed the number of times it is selected for the minor magic talent. The rogue must possess the associated rogue talent to select these options.
+- [Sorcerer](http://www.d20pfsrd.com/classes/core-classes/sorcerer/): Choose a bloodline power from the djinni or elemental (fire) bloodline that the sorcerer can use. The sorcerer treats her class level as though it were +1/6 higher (to a maximum of +2) when determining the effects of that power.
+- [Summoner](http://www.d20pfsrd.com/classes/base-classes/summoner/): Add +1/4 to the eidolon’s evolution pool.
+- [Swashbuckler](http://www.d20pfsrd.com/classes/hybrid-classes/swashbuckler/): Increase the number of times per day the swashbuckler can use charmed life by 1/4.
+- [Witch](http://www.d20pfsrd.com/classes/base-classes/witch/): Add a +1/2 bonus on Stealth checks and Perception checks made by the witch’s familiar. If the Sylph ever replaces her familiar, the new familiar gains these bonus skill ranks.
+- [Wizard](https://www.d20pfsrd.com/classes/core-classes/wizard/): Select one arcane school power from the fire elemental schools that the wizard can currently use. The wizard treats her class level as though it were +1/6 higher (to a maximum of +2) when determining the effects of that power.
