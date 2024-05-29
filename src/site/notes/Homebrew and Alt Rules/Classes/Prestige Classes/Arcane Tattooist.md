@@ -22,7 +22,7 @@ The Arcane Tattooist’s class skills are Appraise (Int), Bluff (Cha), Craft (In
 Skill Ranks at Each Level: 4 + Int modifier.
 <sub><sub>Table: Arcane Tattooist</sub></sub>
 
-| **Level ** | **BAB ** | **Fort ** | **Reflex ** | **Will ** |                   **Special **                  |  **Spellcasting ** |
+| **Level** | **BAB** | **Fort** | **Reflex** | **Will** |                   **Special**                  |  **Spellcasting** |
 |:----------:|:--------:|:---------:|:-----------:|:---------:|:-----------------------------------------------:|:------------------:|
 |    1st     |    +0    |    +0     |     +0      |    +2     | [[Homebrew and Alt Rules/Classes/Prestige Classes/Arcane Tattooist#Improved Tattoo Familiar (Su)\|Improved Tattoo Familiar]], [[Homebrew and Alt Rules/Classes/Prestige Classes/Arcane Tattooist#Persistent Bloodline (Su)\|Persistent Bloodline]]  | +1 Existing Class  |
 |    2nd     |    +1    |    +0     |     +0      |    +3     |             [[Homebrew and Alt Rules/Classes/Prestige Classes/Arcane Tattooist#Enhance Tattoo Familiar (Su)\|Enhance Tattoo Familiar]]             | +1 Existing Class  |
