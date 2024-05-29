@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/homebrew-and-alt-rules/classes/paragon-classes/vampire-scion/vampire-talents/sanguimancy-talents/arcane-transfusion/"}
+---
+
+<sup><sup>[[Mistveil\|Mistveil]] → [[Homebrew and Alt Rules/Classes/Classes\|Classes]] → [[Homebrew and Alt Rules/Classes/Paragon Classes/Vampire Scion/Vampire Scion\|Vampire Scion]] → [[Homebrew and Alt Rules/Classes/Paragon Classes/Vampire Scion/Vampire Talents/Vampire Talents\|Vampire Talents]] → Arcane Transfusion</sup></sup>
+**Prerequisite(s)**: Any three Sanguimancy talents.
+
+**Benefits**: Anytime a Vampire with this talent uses their [[Homebrew and Alt Rules/Feats/Paragon Feats/Tainted Blood (feat)#Blood Drain (Su)\|Blood Drain]] ability on a target that has arcane spells, the Vampire can choose one spell that the spellcaster still has prepared, or one spell which the spellcaster still has an appropriate spell slot available for in the case of spontaneous casters, up to a maximum spell level equal to half the Vampire's level. The Vampire gains this spell as a spell-like ability a number of times per day equal to the amount of constitution damage dealt, with a caster level equal to their level. The Vampire can only have one spell-like ability from this talent and each time they use their [[Homebrew and Alt Rules/Feats/Paragon Feats/Tainted Blood (feat)#Blood Drain (Su)\|Blood Drain]] ability on an arcane spellcaster they can choose to switch to a new spell-like ability or to retain their current ability. If the Vampire switches their spell-like ability after using any of their daily uses from their previous spell-like ability, those uses are also removed from their new spell-like ability until the following day. 
