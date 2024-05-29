@@ -23,7 +23,7 @@ The Enraged Berserker's class skills are Acrobatics (Dex), [[Homebrew and Alt Ru
 Skill Ranks at Each Level: 4 + Int modifier.
 <sub><sub>Table: Enraged Berserker</sub></sub>
 
-| **Level ** | **BAB ** | **Fort ** | **Ref ** | **Will ** |                  **Special **                 |
+| **Level** | **BAB** | **Fort** | **Ref** | **Will** |                  **Special**                 |
 |:----------:|:--------:|:---------:|:--------:|:---------:|:---------------------------------------------:|
 |    1st     |    +1    |    +1     |    +0    |    +0     |         [[Homebrew and Alt Rules/Classes/Prestige Classes/Enraged Berserker#Berserker Rage (Ex)\|Berserker Rage]] 1/day, [[Homebrew and Alt Rules/Classes/Prestige Classes/Enraged Berserker#Diehard\|Diehard]]         |
 |    2nd     |    +2    |    +1     |    +1    |    +1     |                  [[Homebrew and Alt Rules/Classes/Prestige Classes/Enraged Berserker#Rage Power\|Rage Power]]                   |
