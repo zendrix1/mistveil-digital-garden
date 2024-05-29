@@ -19,7 +19,7 @@ The Arcane Manipulator's class skills are Appraise (Int), Craft (Int), Fly (Dex)
 Skill Ranks at Each Level: 2 + Int modifier.
 <sub><sub>Table: Arcane Manipulator</sub></sub>
 
-| **Level ** | **BAB ** | **Fort ** | **Ref ** | **Will ** |                        **Special **                       |      **Spellcasting **      |
+| **Level** | **BAB** | **Fort** | **Ref** | **Will** |                        **Special**                       |      **Spellcasting**      |
 |:----------:|:--------:|:---------:|:--------:|:---------:|:---------------------------------------------------------:|:---------------------------:|
 |    1st     |    +0    |    +0     |    +0    |    +1     | [[Homebrew and Alt Rules/Classes/Prestige Classes/Arcane Manipulator#Spell Imitation (Su)\|Spell Imitation]], [[Homebrew and Alt Rules/Classes/Prestige Classes/Arcane Manipulator#Spell Specialization\|Spell Specialization]], [[Homebrew and Alt Rules/Classes/Prestige Classes/Arcane Manipulator#Magical Fortitude (Su)\|Magical Fortitude]]  | +1 level of existing class  |
 |    2nd     |    +1    |    +1     |    +1    |    +1     |                       [[Homebrew and Alt Rules/Classes/Prestige Classes/Arcane Manipulator#Bonus Exploit\|Bonus Exploit]]                       | +1 level of existing class  |
