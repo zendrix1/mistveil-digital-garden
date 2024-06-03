@@ -5,7 +5,7 @@
 <sup><sup>[[Mistveil\|Mistveil]] → Spells</sup></sup> 
 ### New Spells
 
-| **Spell Name ** |    **School/Level **    |
+|**Spell Name** |**School/Level**    |
 |:---------------:|:-----------------------:|
 | [[Homebrew and Alt Rules/Spells/New Spells/Hungry Shadows\|Hungry Shadows]]  | Conjuration [shadow] 3  |
 |  [Repair Spells](https://sites.google.com/site/eberronpathfinder/conversion-info/magic/spells/P-R/repair-damage)  |   Transmutation varies  |
@@ -14,7 +14,7 @@
 
 ### Modified Spells
 
-| **Spell Name ** | **School/Level ** |                                                               **Special **                                                              |
+|**Spell Name** |**School/Level** |                                               **Special**                                                              |
 |:---------------:|:-----------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|
 |   [[Homebrew and Alt Rules/Spells/Modified Spells/Blood Money\|Blood Money]]   |  Transmutation 1  |                                                                    -                                                                    |
 |  [[Homebrew and Alt Rules/Spells/Modified Spells/Detect Magic\|Detect Magic]]   |   Divination 0    | If [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Identifying Magic Items\|Identifying Magic Items]] is not currently being used,  this version of Detect Magic can identify the same way as the Vanilla spell.   |
@@ -24,7 +24,7 @@
 
 ### Spells Modified by the [[Homebrew and Alt Rules/Rules/Not in Use/Language Percentages\|Language Percentages]] Alternate Rule
 
-|    **Spell Name **    | **School/Level ** |              **Replaces **             |
+|**Spell Name**    | **School/Level** |              **Replaces**             |
 |:---------------------:|:-----------------:|:--------------------------------------:|
 | [[Homebrew and Alt Rules/Spells/Language Percentage Spells/Comprehend Languages\|Comprehend Languages]]  |   Divination 1    | Replaces vanilla *[Comprehend Languages](https://www.d20pfsrd.com/magic/all-spells/c/comprehend-languages/)*  |
 |        [[Homebrew and Alt Rules/Spells/Language Percentage Spells/Tongues\|Tongues]]        |   Divination 3    |        Replaces vanilla *[Tongues](https://www.d20pfsrd.com/magic/all-spells/t/tongues/)*        |
@@ -33,7 +33,7 @@
 
 ### Spells Modified by the [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Identifying Magic Items\|Identifying Magic Items]] Alternate Rule
 
-| **Spell Name ** | **School/Level ** |          **Replaces **         |
+|**Spell Name** | **School/Level** |          **Replaces**         |
 |:---------------:|:-----------------:|:------------------------------:|
 |  [[Homebrew and Alt Rules/Spells/Modified Spells/Detect Magic\|Detect Magic]]   |   Divination 0    | Replaces vanilla *[Detect Magic](https://www.d20pfsrd.com/magic/all-spells/d/detect-magic/)*  |
 |    [[Homebrew and Alt Rules/Spells/Identifying Magic Items Spells/Identify\|Identify]]     |   Divination 1    |    Replaces vanilla *[Identify](https://www.d20pfsrd.com/magic/all-spells/i/identify/)*   |
