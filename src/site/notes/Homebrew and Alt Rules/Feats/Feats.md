@@ -5,7 +5,7 @@
 <sup><sup>[[Mistveil\|Mistveil]] → Feats</sup></sup> 
 ### Combat Feats
 
-|     **Feat Name **      |  **Category/Type **  |                                                              **Prerequisites **                                                              |                           **Benefit **                           |
+|     **Feat Name**      |  **Category/Type**  |                                                              **Prerequisites**                                                              |                           **Benefit**                           |
 | :---------------------: | :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------: |
 | [[Homebrew and Alt Rules/Feats/Combat Feats/Attune Magic Weapon\|Attune Magic Weapon]] | Combat/Item Creation | [Craft Magic Arms and Armor](https://www.d20pfsrd.com/feats/item-creation-feats/craft-magic-arms-and-armor-item-creation/), caster level 5th | Gain a bonus on attack and damage while wielding a magic weapon. |
 |    [[Homebrew and Alt Rules/Feats/Combat Feats/Battle Caster\|Battle Caster]]    |        Combat        |                                Ability to ignore arcane spell failure chance from armor, base attack bonus +5                                |    Cast spells without being impaired while in heavier armor.    |
@@ -13,7 +13,7 @@
 
 ### General Feats
 
-|        **Feat Name **         | **Category/Type ** |                                            **Prerequisites **                                            |                                                    **Benefit **                                                    |
+|        **Feat Name**         | **Category/Type** |                                            **Prerequisites**                                            |                                                    **Benefit **                                                    |
 | :---------------------------: | :----------------: | :------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
 |     [[Homebrew and Alt Rules/Feats/General Feats/Evolved Companion\|Evolved Companion]]     |      General       | [Animal Companion](https://www.d20pfsrd.com/classes/core-classes/druid/animal-companions) class feature. | Companion gains a 1-point [eidolon](https://www.d20pfsrd.com/classes/base-classes/summoner#TOC-Eidolon) evolution. |
 |     [[Homebrew and Alt Rules/Feats/General Feats/Extra Invocation\|Extra Invocation]]      |      General       |                            [[Homebrew and Alt Rules/Classes/Base Classes/Warlock/Warlock#Invocations (Su)\|Warlock Invocations]].                            |                                         Gain an extra Warlock Invocation.                                          |
@@ -25,7 +25,7 @@
 
 ### Item Creation Feats
 
-|       **Feat Name **        |  **Category/Type **  |                                                                                              **Prerequisites **                                                                                               |                                  **Benefit **                                  |
+|       **Feat Name**        |  **Category/Type**  |                                                                                              **Prerequisites**                                                                                               |                                  **Benefit**                                  |
 | :-------------------------: | :------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------: |
 |   [[Homebrew and Alt Rules/Feats/Combat Feats/Attune Magic Weapon\|Attune Magic Weapon]]   | Combat/Item Creation |                                 [Craft Magic Arms and Armor](https://www.d20pfsrd.com/feats/item-creation-feats/craft-magic-arms-and-armor-item-creation/), caster level 5th                                  |        Gain a bonus on attack and damage while wielding a magic weapon.        |
 |   [[Homebrew and Alt Rules/Feats/Item Creation Feats/Exceptional Artisan\|Exceptional Artisan]]   |    Item Creation     |                                                                                            Any item creation feat.                                                                                            |                         Create magic items 25% faster.                         |
@@ -37,25 +37,25 @@
 
 ### [[Ki Reserve Feats\|Ki Reserve Feats]]
 
-| **Feat Name ** | **Category/Type ** |                                                                      **Prerequisites **                                                                       |                          **Benefit **                          |
+| **Feat Name** | **Category/Type** |                                                                      **Prerequisites**                                                                       |                          **Benefit**                          |
 | :------------: | :----------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------: |
 | [[Homebrew and Alt Rules/Feats/Ki Reserve Feats/Soul Speak\|Soul Speak]] |     Ki Reserve     | [Ki Pool](https://www.d20pfsrd.com/classes/unchained-classes/Monk-unchained/#Ki_Pool_Su), [Linguistics](https://www.d20pfsrd.com/skills/linguistics/) 5 Ranks | Reserve a point of Ki to be able to communicate telepathically |
 
 ### Metamagic Feats
 
-|    **Feat Name **    | **Category/Type ** |                                                      **Prerequisites **                                                      |                       **Benefit **                       |
+|    **Feat Name**    | **Category/Type** |                                                      **Prerequisites**                                                      |                       **Benefit**                       |
 | :------------------: | :----------------: | :--------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------: |
 | [[Homebrew and Alt Rules/Feats/Metamagic Feats/Divine Metamagic\|Divine Metamagic]] |     Metamagic      | [Channel Energy](https://www.d20pfsrd.com/classes/Core-Classes/Cleric/#Channel_Energy_Su) class feature, any metamagic feat. | Use Channel Energy uses to cast metamagic spells easier. |
 
 ### [[Paragon Feats\|Paragon Feats]]
 
-|             **Feat Name **              | **Category/Type ** | **Prerequisites ** |                                   **Benefit **                                   |
+|             **Feat Name**              | **Category/Type** | **Prerequisites** |                                   **Benefit**                                   |
 | :-------------------------------------: | :----------------: | :----------------: | :------------------------------------------------------------------------------: |
 | [[Homebrew and Alt Rules/Feats/Paragon Feats/Tainted Blood (feat)\|Tainted Blood]] |      Paragon       |    See Special     | The [[Tainted Blood\|Tainted Blood]] has started to transform you into a creature of the night. |
 
 ### Racial Feats
 
-|      **Feat Name **       |          **Category/Type **          |                                    **Prerequisites **                                     |                                 **Benefit **                                 |
+|      **Feat Name**       |          **Category/Type**          |                                    **Prerequisites**                                     |                                 **Benefit**                                 |
 | :-----------------------: | :----------------------------------: | :---------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
 |     [[Homebrew and Alt Rules/Feats/Racial Feats/Dark Ancestry\|Dark Ancestry]]     |         Racial ([[Homebrew and Alt Rules/Races/Core Races/Dhampir\|Dhampir]])         |                                 [[Homebrew and Alt Rules/Races/Core Races/Dhampir\|Dhampir]], hit dice 3.                                  | Gain one [[Homebrew and Alt Rules/Classes/Paragon Classes/Vampire Scion/Vampire Talents/Vampire Talents\|Vampire Talent]] you meet the prerequisites for. |
 | [[Homebrew and Alt Rules/Feats/Racial Feats/Greater Shape Change\|Greater Shape Change]]  | Racial ([[Homebrew and Alt Rules/Races/Core Races/Changelings\|Changeling]]) | [[Homebrew and Alt Rules/Feats/Racial Feats/Improved Shape Change\|Improved Shape Change]], [disguise](https://www.d20pfsrd.com/skills/disguise) 7 ranks.  |             Gain any moment types of a creature you change into.             |
