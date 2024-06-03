@@ -85,7 +85,7 @@ To use wild empathy, the Beast Dancer and the animal must be able to study each 
 The Beast Dancer can also use this ability to influence a magical beast with an Intelligence score of 1 or 2, but she takes a –4 penalty on the check. 
 <br>
 ##### Beast Dance (Su)
-At 2nd level, the Beast Dancer lives up to their title by truly being able to fight as one creature with their Bonded Companion. Whenever the Beast Dancer uses her Improved Empathic Link to see through her companion's eyes while within 30ft of her companion she can choose to start a Beast Dance as a swift action. While under the effects of Beast Dance, the Beast Dancer does not suffer the negative effects of being blinded by the Improved Emphatic Link.
+At 2nd level, the Beast Dancer lives up to their title by truly being able to fight as one creature with their Bonded Companion. Whenever the Beast Dancer uses her Improved Empathic Link to see through her companion's eyes while within 30ft of her companion she can choose to start a Beast Dance. While under the effects of Beast Dance, the Beast Dancer does not suffer the negative effects of being blinded by the Improved Emphatic Link.
 
 During a Beast Dance the Beast Dancer's Bonded Companion counts as having any [Teamwork Feats](https://www.d20pfsrd.com/feats/teamwork-feats/) that the Beast Dancer has, they do not need to meet the prerequisites for the feats. In addition the Beast Dancer and her Bonded Companion can take simultaneous movement actions during a Beast Dance. For example, the Beast Dancer can move behind an enemy and their Bonded Companion can move in front of them in order to flank before either of them takes their standard actions to attack. Alternately, the Beast Dancer can move partially, have their companion move, then finish their movement afterwards for example.
 
@@ -124,4 +124,4 @@ At 8th level, the Beast Dancer's comfort in heavier armor has grown even further
 At 14th level, the range of the Beast Dancer’s empathic link with her Bonded Companion increases to 10 miles. If the companion is within 1 mile, the Beast Dancer can communicate with it telepathically. 
 <br>
 ##### As One (Su)
-> [!TODO] TODO
+At 20th level, the Beast Dancer is so entuned with their Bonded Companion that they no longer have any limitation on how long they can stay in a Beast Dance, letting them start and maintain the ability at-will. In addition, when entering a Beast Dance the Beast Dancer can choose two of their Nature Forms and Animal Aspects to use instead of only one each.
