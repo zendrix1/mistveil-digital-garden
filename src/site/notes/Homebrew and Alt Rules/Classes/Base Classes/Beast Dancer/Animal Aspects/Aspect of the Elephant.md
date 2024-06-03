@@ -9,7 +9,7 @@ When gaining this aspect you and your Bonded Companion each gain a slam attack. 
 
 If you or your Bonded Companion already have a slam attack, treat the damage of it as if it was one size category higher.
 
-In addition, while you have this aspect, you and your Bonded Companion gain a bonus to their existing natural armor based on the Beast Dancer's level.
+In addition, while you have this aspect active, you and your Bonded Companion gain a bonus to their existing natural armor based on the Beast Dancer's level.
 
 | **Level** | **Bonus** |
 |:----------:|:----------:|
