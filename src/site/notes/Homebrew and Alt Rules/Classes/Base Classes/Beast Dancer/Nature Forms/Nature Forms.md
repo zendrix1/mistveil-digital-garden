@@ -5,7 +5,7 @@
 <sup><sup>[[Mistveil\|Mistveil]] → [[Homebrew and Alt Rules/Classes/Classes\|Classes]] → [[Homebrew and Alt Rules/Classes/Base Classes/Beast Dancer/Beast Dancer\|Beast Dancer]] → Nature Forms</sup></sup>
 <sub><sub>Table: Nature Forms</sub></sub>
 
-|      **Form Name **      |                                      **Description **                                      |
+|      **Form Name**      |                                      **Description**                                      |
 | :----------------------: | :----------------------------------------------------------------------------------------: |
 |   [[Homebrew and Alt Rules/Classes/Base Classes/Beast Dancer/Nature Forms/Form of the Bog\|Form of the Bog]]    | You and your companion's weapons are infused with harsh acidic water while Beast Dancing.  |
 |  [[Homebrew and Alt Rules/Classes/Base Classes/Beast Dancer/Nature Forms/Form of the Desert\|Form of the Desert]]  |     You and your companion's weapons are cloaked in burning sands while Beast Dancing.     |
