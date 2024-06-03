@@ -9,7 +9,7 @@ When gaining this aspect, you and your Bonded Companion each gain a special char
 
 In addition, while you have this aspect active, you and your Bonded Companion each gain the ability to breathe water freely (this does not make you unable to breathe air) and a swim speed based on the Beast Dancer's level. 
 
-| **Level ** | **Speed ** |
+| **Level** | **Speed** |
 |:----------:|:----------:|
 |    2nd     |    20ft    |
 |    8th     |    30ft    |
