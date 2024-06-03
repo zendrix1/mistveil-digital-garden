@@ -9,7 +9,7 @@ When gaining this aspect you and your Bonded Companion each gain claws. These cl
 
 If you or your Bonded Companion already have a claw attack, treat the damage of it as if it was one size category higher.
 
-In addition, while you have this aspect, you and your Bonded Companion gain a burrow speed based on the Beast Dancer's level to move through dirt and loose earth however you cannot move through solid stone. 
+In addition, while you have this aspect active, you and your Bonded Companion gain a burrow speed based on the Beast Dancer's level to move through dirt and loose earth however you cannot move through solid stone. 
 
 | **Level** | **Speed** |
 |:----------:|:----------:|
