@@ -7,7 +7,7 @@ As you enter your Beast Dance alongside your Bonded Companion, you channel the p
 
 When entering this form you choose one weapon or natural weapon type to add the effect to for both yourself and your Bonded Companion, they deal additional sonic damage according to the following chart. 
 
-| **Level ** | **Damage ** |
+| **Level** | **Damage** |
 |:----------:|:-----------:|
 |    4th     |    +1d4     |
 |    7th     |    +2d4     |
