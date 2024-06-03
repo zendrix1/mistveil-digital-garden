@@ -64,7 +64,7 @@ Upon reaching 5th level, and at every third Shadow Apostle level thereafter (8th
 
 <sub><sub>Table: Shadow Apostle Spells Known</sub></sub>
 
-| **Level ** | **0th ** | **1st ** | **2nd ** | **3rd ** | **4th ** | **5th ** | **6th ** |
+| **Level** | **0th** | **1st** | **2nd** | **3rd** | **4th** | **5th** | **6th** |
 |:----------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |    1st     |    4     |    2     |    -     |    -     |    -     |    -     |    -     |
 |    2nd     |    5     |    3     |    -     |    -     |    -     |    -     |    -     |
@@ -88,7 +88,7 @@ Upon reaching 5th level, and at every third Shadow Apostle level thereafter (8th
 |    20th    |    6     |    6     |    6     |    6     |    6     |    5     |     5    |
 <sub><sub>Table: Shadow Apostle Spells Per Day</sub></sub>
 
-| **Level ** | **1st ** | **2nd ** | **3rd ** | **4th ** | **5th ** | **6th ** |
+| **Level** | **1st** | **2nd** | **3rd** | **4th** | **5th** | **6th** |
 | :--------: | :------: | :------: | :------: | :------: | :------: | :------: |
 |    1st     |    1     |    -     |    -     |    -     |    -     |    -     |
 |    2nd     |    2     |    -     |    -     |    -     |    -     |    -     |
