@@ -11,7 +11,7 @@ If you or your Bonded Companion already have a talon attack, treat the damage of
 
 In addition, while you have this aspect, you and your Bonded Companion gain a fly speed based on the Beast Dancer's level. 
 
-| **Level ** | **Speed ** |
+| **Level** | **Speed** |
 |:----------:|:----------:|
 |    4th     |    30ft    |
 |    8th     |    35ft    |
