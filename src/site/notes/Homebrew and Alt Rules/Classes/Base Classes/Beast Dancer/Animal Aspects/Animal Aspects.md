@@ -9,7 +9,7 @@
 
 <sub><sub>Table: Animal Aspects</sub></sub>
 
-|        **Aspect Name **        |                                                                   **Description **                                                                    |
+|        **Aspect Name**        |                                                                   **Description**                                                                    |
 | :----------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: |
 |    [[Homebrew and Alt Rules/Classes/Base Classes/Beast Dancer/Animal Aspects/Aspect of the Badger\|Aspect of the Badger]]    |          You and your companion gain long claws that can used for offense or  for quickly burrowing through the ground while Beast Dancing.           |
 |  [[Homebrew and Alt Rules/Classes/Base Classes/Beast Dancer/Animal Aspects/Aspect of the Barracuda\|Aspect of the Barracuda]]   |         You and your companion gain the ability to breath underwater, a swim  speed, and a fast underwater charge attack while Beast Dancing.         |
