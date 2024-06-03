@@ -7,7 +7,7 @@ As you enter your Beast Dance alongside your Bonded Companion, you channel the p
 
 When entering this form you choose one weapon or natural weapon type to add the effect to for both yourself and your Bonded Companion, they deal additional [bleed damage](https://www.d20pfsrd.com/gamemastering/Conditions/#Bleed) according to the following chart.
 
-| **Level ** | **Damage ** |
+| **Level** | **Damage** |
 |:----------:|:-----------:|
 |    4th     |    +1d6     |
 |    8th     |    +2d6     |
