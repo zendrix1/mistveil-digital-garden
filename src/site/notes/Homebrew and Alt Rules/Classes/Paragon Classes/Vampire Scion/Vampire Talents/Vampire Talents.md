@@ -7,7 +7,7 @@ The power of the [[Tainted Blood\|Tainted Blood]] that runs through every Vampir
 <br>
 ### Sanguimancy Talents
 
-|      **Talent **       |                  **Prerequisites **                  |                                                       **Benefits **                                                        |
+|      **Talent**       |                  **Prerequisites**                  |                                                       **Benefits**                                                        |
 | :--------------------: | :--------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 | [[Homebrew and Alt Rules/Classes/Paragon Classes/Vampire Scion/Vampire Talents/Sanguimancy Talents/Arcane Transfusion\|Arcane Transfusion]] |            Any three Sanguimancy talents.            |                             Learn a spell-like ability by draining the blood of a spellcaster.                             |
 |   [[Homebrew and Alt Rules/Classes/Paragon Classes/Vampire Scion/Vampire Talents/Sanguimancy Talents/Avascular Mass\|Avascular Mass]]   |            Any seven Sanguimancy talents.            |                     Cause your opponents purge blood vessels from their skin, creating sticky terrain.                     |
@@ -22,7 +22,7 @@ The power of the [[Tainted Blood\|Tainted Blood]] that runs through every Vampir
 
 ### Seducer Talents
 
-|      **Talent **       |                 **Prerequisites **                 |                                     **Benefits **                                      |
+|      **Talent**       |                 **Prerequisites**                 |                                     **Benefits**                                      |
 | :--------------------: | :------------------------------------------------: | :------------------------------------------------------------------------------------: |
 |  [[Homebrew and Alt Rules/Classes/Paragon Classes/Vampire Scion/Vampire Talents/Seducer Talents/Become Ethereal\|Become Ethereal]]   |  Any five Seducer talents, [[Homebrew and Alt Rules/Classes/Paragon Classes/Vampire Scion/Vampire Talents/Seducer Talents/Become Invisible\|Become Invisible]].   |     Enter the [[Cosmology/Ethereum\|Ethereum]] that surrounds the plane you are in, becoming ethereal.     |
 |  [[Homebrew and Alt Rules/Classes/Paragon Classes/Vampire Scion/Vampire Talents/Seducer Talents/Become Invisible\|Become Invisible]]  | Any three Seducer talents, [[Homebrew and Alt Rules/Classes/Paragon Classes/Vampire Scion/Vampire Talents/Seducer Talents/Dampened Presence\|Dampened Presence]].  |        Alter the light around your being to become invisible to the naked eye.         |
@@ -38,7 +38,7 @@ The power of the [[Tainted Blood\|Tainted Blood]] that runs through every Vampir
 ### Predator Talents
 > [!TODO] TODO
 
-| **Talent ** | **Prerequisites ** | **Benefits ** |
+| **Talent** | **Prerequisites** | **Benefits** |
 |:-----------:|:------------------:|:-------------:|
 |             |                    |               |
 |             |                    |               |
