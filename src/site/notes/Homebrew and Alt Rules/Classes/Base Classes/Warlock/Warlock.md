@@ -96,7 +96,7 @@ Like other spellcasters, a warlock can cast only a certain number of spells of e
 
 <sub><sub>Table: Warlock Spells Per Day</sub></sub>
 
-| **Level ** | **1st ** | **2nd ** | **3rd ** | **4th ** | **5th ** | **6th ** |
+| **Level** | **1st** | **2nd** | **3rd** | **4th** | **5th** | **6th** |
 |:----------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 |    1st     |    1     |    -     |    -     |    -     |    -     |    -     |
 |    2nd     |    2     |    -     |    -     |    -     |    -     |    -     |
@@ -123,7 +123,7 @@ The warlock’s selection of spells is extremely limited. A warlock begins play 
 
 <sub><sub>Table: Warlock Spells Known</sub></sub>
 
-| **Level ** | **0 ** | **1st ** | **2nd ** | **3rd ** | **4th ** | **5th ** | **6th ** |
+| **Level** | **0** | **1st** | **2nd** | **3rd** | **4th** | **5th** | **6th** |
 | :--------: | :----: | :------: | :------: | :------: | :------: | :------: | :------: |
 |    1st     |   4    |    2     |    -     |    -     |    -     |    -     |    -     |
 |    2nd     |   5    |    3     |    -     |    -     |    -     |    -     |    -     |
