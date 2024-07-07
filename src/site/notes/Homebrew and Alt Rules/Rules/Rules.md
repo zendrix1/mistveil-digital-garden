@@ -36,7 +36,7 @@
 |                                                            **Rule**                                                            |                                                 **Description**                                                  |
 | :----------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
 |                                                      [[Homebrew and Alt Rules/Rules/In-Person Games/Ammunition Dice\|Ammunition Dice]]                                                       |                 Use decreasing dice size to represent ammo rather than tracking each arrow/bolt.                 |
-| [Automatic Bonus Progression](https://www.d20pfsrd.com/gamemastering/other-rules/unchained-rules/automatic-bonus-progression/) | Removal of the "Big Six" magic items, automatic bonuses to your stats as you level up, reduced character wealth. |
+| [Automatic Bonus Progression](https://www.d20pfsrd.com/gamemastering/other-rules/unchained-rules/automatic-bonus-progression/) but Without Armor or Weapon Attunement  | Removal of the "Big Six" magic items, automatic bonuses to your stats as you level up, reduced character wealth. |
 |                                                            [[Homebrew and Alt Rules/Rules/In-Person Games/Bulk\|Bulk]]                                                            |                           Pathfinder 2e Bulk system modified slightly for 1st edition.                           |
 
 <br>
