@@ -10,7 +10,7 @@ Most Druids are able to tap into the magic of [[Leylines\|Leylines]] to take the
 **Starting Wealth**: 2d6 × 10 gp (average 70 gp.) In addition, each character begins play with an outfit worth 10 gp or less.
 
 ### Class Skills
-The Beast Dancer’s class skills are Acrobatics (Dex), [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Athletics\|Athletics]] (Str), Craft (Int), Fly (Dex) Handle Animal (Cha), Knowledge (geography) (Int), Knowledge (nature) (Int), Perception (Wis), Perform (dance) (cha), Profession (Wis), Ride (Dex), Spellcraft (Int), Stealth (Dex), and Survival (Wis).
+The Beast Dancer’s class skills are Acrobatics (Dex), [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Athletics\|Athletics]] (Str), Craft (Int), Fly (Dex), Handle Animal (Cha), Knowledge (geography) (Int), Knowledge (nature) (Int), Perception (Wis), Perform (dance) (cha), Profession (Wis), Ride (Dex), Spellcraft (Int), Stealth (Dex), and Survival (Wis).
 
 **Skill Ranks per Level**: 2 + Int modifier. 
 
