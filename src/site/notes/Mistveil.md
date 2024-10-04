@@ -9,9 +9,6 @@ Mistveil is a homebrew campaign setting created with Pathfinder 1e in mind which
 
 ## Known Continents
 - [[Known Continents/Mortend/Mortend\|Mortend]]
-
-> [!todo] TODO
-> Add in Siona's continent
 <br>
 ## Cosmology
 - [[Cosmology/Ethereum\|Ethereum]]
