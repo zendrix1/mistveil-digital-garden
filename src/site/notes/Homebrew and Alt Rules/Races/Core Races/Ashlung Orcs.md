@@ -28,8 +28,8 @@ The Orcs of the [[Ashlands\|Ashlands]] have had a troubled history. Their cultur
     - Maximum Age: 80 years
 <br>
 #### Ashlung Orc Alternate Racial Traits
-
-> [!TODO] TODO
+- Heart of Fire: Most Ashlungs dislike their homeland and origins but some are born with an even closer affinity to the volcanic mountain they are tied to. Ashlung Orc sorcerers with the elemental (fire) bloodline treat their Charisma score as 2 points higher for all sorcerer spells and class abilities. Ashlung spellcasters with the Fire domain use their domain powers and spells at +1 caster level. This racial trait replaces Ferocity.
+- Weaned Off Ash: Although no way to completely remove the dependency on ash has been found, some Ashlung Orcs that have spent most of their lives away from the Ashlands have managed to lessen their reliance on the substance. Ashlungs with this trait need only ingest a small amount of ash, usually just a pinch that can be mixed into their regular food and drink, once each 24 hours before suffering the regular penalties. Alternatively they may consume the usual fistful of hot ash, but only need to do so once each week rather than once per 24 hours. In the latter case, if seven days pass without consuming any ash, the penalties increase each additional day as per normal. This racial trait modifies Ash Reliant and replaces Weapon Familiarity.  
 <br>
 #### Ashlung Orc Favored Class Bonuses
 - [Barbarian](https://www.d20pfsrd.com/classes/core-classes/barbarian/): Add 1 to the half-orc’s total number of rage rounds per day.
