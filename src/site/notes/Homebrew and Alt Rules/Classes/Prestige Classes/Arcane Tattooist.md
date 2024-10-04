@@ -76,17 +76,13 @@ At 3rd level, the Arcane Tattooist’s bond with his Tattoo Familiar has become 
 ##### Improved Mage’s Tattoo (Sp)
 At 4th level, the Arcane Tattooist has become experienced enough in the creation and altering magical tattoos to make his [Mage’s Tattoo](https://www.d20pfsrd.com/feats/general-feats/mages-tattoo/) much more effective. Based on school you choose when you take the feat, you can an additional spell-like ability that can be used once per day. In addition, you can use the spell-like ability granted originally at-will instead of three times per day.
 
-- Abjuration: *tbd*
-- Conjuration: *tbd*
+- Abjuration: [*Stoneskin*](https://www.d20pfsrd.com/magic/all-spells/s/stoneskin/)
+- Conjuration: [*Acid Pit*](https://www.d20pfsrd.com/magic/all-spells/a/acid-pit/)
 - Enchantment: [*Mass Daze*](https://www.d20pfsrd.com/magic/all-spells/d/daze/)
 - Evocation: [*Unbearable Brightness*](https://www.d20pfsrd.com/magic/all-spells/u/unbearable-brightness/)
-- Illusion: *tbd*
-- Necromancy: *tbd*
-- Transmutation: *tbd*
-
-
-> [!TODO] TODO
-> Other school's improved spells
+- Illusion: [*Complex Hallucination*](https://www.d20pfsrd.com/magic/all-spells/c/complex-hallucination/)
+- Necromancy: [*Bestow Curse*](https://www.d20pfsrd.com/magic/all-spells/b/bestow-curse/)
+- Transmutation: [*Telekinetic Maneuver*](https://www.d20pfsrd.com/magic/all-spells/t/telekinetic-maneuver/)
 <br>
 ##### Skillful Tattooist (Ex)
 At 5th level, as long as an Arcane Tattooist is using his [Craft (calligraphy, paintings, or tattoos)](https://www.d20pfsrd.com/skills/craft/) skill to craft magical tattoos on his own body, he can do so in half the time it would normally take.
