@@ -13,10 +13,8 @@
 > [!TODO] TODO
 <br>
 ## Major Populations
-- [[Homebrew and Alt Rules/Races/Half-Races/Half-Elves\|Half-Elves]]
 - [[Homebrew and Alt Rules/Races/Core Races/Halflings\|Halflings]]
-- [[Homebrew and Alt Rules/Races/Core Races/High Elves\|High Elves]]
-- [[Human\|Human]]
+- [[Homebrew and Alt Rules/Races/Core Races/Humans\|Humans]]
 <br>
 ## Notable Figures
 > [!TODO] TODO
