@@ -31,7 +31,7 @@ Native to the [[Cosmology/Inner Realms/Depths\|Depths]], the Duergar are a subte
     - Maximum Age: 450 years
 <br>
 #### Duergar Alternate Racial Traits
-
+- 
 > [!TODO] TODO
 <br>
 #### Duergar Favored Class Bonuses
