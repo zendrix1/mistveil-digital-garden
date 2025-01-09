@@ -3,11 +3,11 @@
 ---
 
 <sup><sup>[[Mistveil\|Mistveil]] → [[Homebrew and Alt Rules/Races/Races\|Races]] → Half-Ashlung Orcs</sup></sup>
-These hybrids between [[Homebrew and Alt Rules/Races/Core Races/Ashlung Orcs\|Ashlung Orcs]] and [[Homebrew and Alt Rules/Races/Core Races/Humans\|Humans]] or [[Homebrew and Alt Rules/Races/Core Races/High Elves\|High Elves]] are extremely rare but are seen by some [[Homebrew and Alt Rules/Races/Core Races/Ashlung Orcs\|Ashlungs]] as a great hope for their race. Even though Half-Ashlung Orcs are born with the same darkened skin the [[Homebrew and Alt Rules/Races/Core Races/Ashlung Orcs\|Ashlungs]] were cursed with, they aren't reliant upon ash the same way (nor do they breathe out ash the same way). Because of this, many within the [[Homebrew and Alt Rules/Races/Core Races/Ashlung Orcs\|Ashlung Orcs]] see these half-breeds as an opportunity to bring their race back to their former glory. This opinion isn’t shared by all the [[Homebrew and Alt Rules/Races/Core Races/Ashlung Orcs\|Ashlungs]] though, with some seeing Half-Ashlung Orcs as the sign that they are blending into the other cultures instead of ruling over them, which is fundamentally against their concept of "freedom". 
+These hybrids between [[Homebrew and Alt Rules/Races/Core Races/Ashlung Orcs\|Ashlung Orcs]] and [[Homebrew and Alt Rules/Races/Core Races/Humans\|Humans]] are extremely rare but are seen by some [[Homebrew and Alt Rules/Races/Core Races/Ashlung Orcs\|Ashlungs]] as a great hope for their race. Even though Half-Ashlung Orcs are born with the same darkened skin the [[Homebrew and Alt Rules/Races/Core Races/Ashlung Orcs\|Ashlungs]] were cursed with, they aren't reliant upon ash the same way (nor do they breathe out ash the same way). Because of this, many within the [[Homebrew and Alt Rules/Races/Core Races/Ashlung Orcs\|Ashlung Orcs]] see these half-breeds as an opportunity to bring their race back to their former glory. This opinion isn’t shared by all the [[Homebrew and Alt Rules/Races/Core Races/Ashlung Orcs\|Ashlungs]] though, with some seeing Half-Ashlung Orcs as the sign that they are blending into the other cultures instead of ruling over them, which is fundamentally against their concept of "freedom". 
 <br>
 ### Half-Ashlung Orc Racial Traits
 - Ability Score Racial Traits: Half-Ashlung Orcs inherent the same hearty nature as their [[Homebrew and Alt Rules/Races/Core Races/Ashlung Orcs\|Ashlung]] parent as well as some of their bullheadedness but like most hybrid races their versatile nature can manifest in several ways. They gain +2 Constitution, +2 to any other ability score of their choice, and -2 Wisdom.
-- Type: Half-Ashlung Orc are Humanoid creatures with both the orc and human or elf (depending on their non-Orc parent) subtypes.
+- Type: Half-Ashlung Orc are Humanoid creatures with both the orc and human subtypes.
 - Size: Half-Ashlung Orc are Medium creatures and thus have no bonuses or penalties due to their size.
 - Base Speed: Half-Ashlung Orc have a base speed of 30 feet.
 - Languages: Half-Ashlung Orc's native languages are Orc and Common.
@@ -30,7 +30,7 @@ These hybrids between [[Homebrew and Alt Rules/Races/Core Races/Ashlung Orcs\|As
 > Add more alt traits
 <br>
 #### Half-Ashlung Orc Favored Class Bonuses
-- Half-Ashlung Orcs share favored class options with their [[Homebrew and Alt Rules/Races/Core Races/Ashlung Orcs\|Ashlung Orc]] parent and [[Homebrew and Alt Rules/Races/Core Races/Humans\|Human]] or [[Homebrew and Alt Rules/Races/Half-Races/Half-Elves\|High Elven]] parent.
+- Half-Ashlung Orcs share favored class options with their [[Homebrew and Alt Rules/Races/Core Races/Ashlung Orcs\|Ashlung Orc]] parent and [[Homebrew and Alt Rules/Races/Core Races/Humans\|Human]] parent.
 
 > [!TODO] TODO
 > Might change to unique favored class bonuses
