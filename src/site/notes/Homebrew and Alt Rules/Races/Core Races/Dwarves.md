@@ -21,7 +21,7 @@ Although not social creatures, Dwarves put a large emphasis on appearing and act
 - Languages: Dwarves' native language is Dwarven.
 - Hardy: Dwarves gain a +2 racial bonus on saving throws against poison, spells, and spell-like abilities.
 - Stability: Dwarves gain a +4 racial bonus to their Combat Maneuver Defense when resisting a bull rush or trip attempt while standing on the ground.
-- Greed: Dwarves gain a +2 racial bonus on [Appraise](http://www.d20pfsrd.com/skills/appraise) checks made to determine the price of goods that contain precious metals or gemstones.
+- Appraiser: Dwarves gain a +2 racial bonus on [Appraise](http://www.d20pfsrd.com/skills/appraise) checks made to determine the price of goods that contain precious metals or gemstones.
 - Stonecunning: Dwarves gain a +2 bonus on [Perception](http://www.d20pfsrd.com/skills/perception) checks to notice unusual stonework, such as traps and hidden doors located in stone walls or floors. They receive a check to notice such features whenever they pass within 10 feet of them, whether or not they are actively looking.
 - Craftsman: Dwarves are known for their superior craftsmanship when it comes to metallurgy and stonework. Dwarves with this racial trait receive a +2 racial bonus on all Craft or Profession checks related to metal or stone.
 - Rock Stepper: Dwarves can skillfully negotiate rocky terrain. They can ignore difficult terrain created by rubble, broken ground, or steep stairs when they take a 5-foot step.
@@ -35,8 +35,13 @@ Although not social creatures, Dwarves put a large emphasis on appearing and act
     - Maximum Age: 450 years
 <br>
 #### Dwarf Alternate Racial Traits
-
-> [!TODO] TODO
+- Barrow Scholar: Dwarves with this racial trait gain a +2 racial bonus on Knowledge (religion) checks to identify undead and can attempt them untrained. This racial trait replaces stonecunning.
+- Healthy: Dwarves with this racial trait gain a +2 racial bonus on saves against disease and poison, and they need one fewer consecutive successful save (minimum 1) to be cured of diseases and poisons. This racial trait replaces hardy.
+- Lorekeeper: Dwarves keep extensive records about their history and the world around them. Dwarves with this racial trait receive a +2 racial bonus on Knowledge (history) checks that pertain to dwarves or their enemies. They can make such skill checks untrained. This racial trait replaces appraiser.
+- Magic Resistant: Some of the older dwarven clans are particularly resistant to magic. Dwarves with this racial trait gain spell resistance equal to 5 + their character level. This resistance can be lowered for 1 round as a standard action. Dwarves with this racial trait take a –2 penalty on all concentration checks made in relation to arcane spells. This racial trait replaces hardy.
+- Minesight: Dwarves with this racial trait increase the range of their darkvision to 90 feet; however, they are automatically dazzled in bright light and take a –2 penalty on saving throws against effects with the light descriptor. This racial trait replaces darkvision.
+- Mountaineer: Mountain dwarves are skilled at climbing and navigating narrow ledges. Dwarves with this racial trait are immune to altitude sickness and do not lose their Dexterity bonus to AC when making Climb or Acrobatics checks to cross narrow or slippery surfaces. This racial trait replaces stability.
+- Stonesinger: Some dwarves’ affinity for the earth grants them greater powers. Dwarves with this racial trait are treated as one level higher when casting spells with the earth descriptor or using granted powers of the Earth domain, the bloodline powers of the deep earth bloodline or earth elemental bloodline, and revelations of the oracle’s stone mystery. This ability does not give them early access to level-based powers; it only affects the powers they could use without this ability. This racial trait replaces stonecunning.
 <br>
 #### Dwarf Favored Class Bonuses
 - [Alchemist](https://www.d20pfsrd.com/classes/base-classes/alchemist/): Add +1/4 to the alchemist’s natural armor bonus when using his mutagen.
