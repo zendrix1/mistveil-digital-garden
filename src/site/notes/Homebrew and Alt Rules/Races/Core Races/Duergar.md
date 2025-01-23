@@ -18,8 +18,7 @@ Native to the [[Cosmology/Inner Realms/Depths\|Depths]], the Duergar are a subte
 - Tireless: Duergar begin play with [Endurance](https://www.d20pfsrd.com/feats/general-feats/endurance) as a bonus feat. If they gain the [Endurance](https://www.d20pfsrd.com/feats/general-feats/endurance) from another source such as a class feature, they instead gain the [Diehard](https://www.d20pfsrd.com/feats/general-feats/diehard/) feat.
 - Magic Resistant: Duergar have a natural resistance to magic and gain spell resistance equal to 5 + their character level. This resistance can be lowered for 1 round as a standard action.
 - Rock Stepper: Duergar can skillfully negotiate rocky terrain. They can ignore difficult terrain created by rubble, broken ground, or steep stairs when they take a 5-foot step.
-- [*Enlarge Person*](https://www.d20pfsrd.com/magic/all-spells/e/enlarge-person/) (Sp): A duergar can use enlarge person once per day, using its character level as its caster level and affecting itself only.
-- [*Invisibility*](https://www.d20pfsrd.com/magic/all-spells/i/invisibility) (Sp): A duergar can use invisibility once per day, using its character level as its caster level and affecting itself only.
+- [*Enlarge Person*](https://www.d20pfsrd.com/magic/all-spells/e/enlarge-person/) (Sp): A Duergar can use enlarge person once per day, using its character level as its caster level and affecting itself only.
 - [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Darkvision\|Superior Darkvision]]: Duergar have superior darkvision, allowing them to see perfectly in the dark up to 120 feet.
 - Light Sensitivity: Duergar are dazzled in areas of bright light.
 - Weapon Familiarity: Duergar are proficient with battleaxes, heavy picks, and warhammers, and treat any weapon with the word “dwarven” in its name as a martial weapon.
@@ -31,8 +30,9 @@ Native to the [[Cosmology/Inner Realms/Depths\|Depths]], the Duergar are a subte
     - Maximum Age: 450 years
 <br>
 #### Duergar Alternate Racial Traits
-- 
-> [!TODO] TODO
+- Invisibility (Sp): A Duergar can use *[invisibility](https://www.d20pfsrd.com/magic/all-spells/i/invisibility)* once per day, using its character level as its caster level and affecting itself only. This racial trait replaces Enlarge Person.
+- Daysighted: The cruel light of the sun harms some Duergar less than others. Such Duergar lack the light sensitivity racial trait, but have normal darkvision and of only 60 feet.
+- Deep Magic: Duergar spellcasters labor long to overcome the inborn spell resistance held by so many of their underground neighbors. Duergar with this racial trait receive a +2 racial bonus on caster level checks made to overcome spell resistance. This racial trait replaces the enlarge person spell-like ability.
 <br>
 #### Duergar Favored Class Bonuses
 - [Barbarian](https://www.d20pfsrd.com/classes/core-classes/barbarian/): Add +1 to the barbarian’s total number of rage rounds per day.
