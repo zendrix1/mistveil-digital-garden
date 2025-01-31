@@ -12,8 +12,15 @@
 |     [[Homebrew and Alt Rules/Items/Ioun Torch\|Ioun Torch]]      |   75gp    |    -    |  Faint Universal    |    None  |   Replaces vanilla [Ioun Torch](https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/ioun-torch/)   |
 |     [[Homebrew and Alt Rules/Items/Chasuble of Fell Power\|Chasuble of Fell Power]]      |   20,000gp    |    1 lb    |   Moderate Necromancy   |   Body   |   -   |
 |     [[Homebrew and Alt Rules/Items/Warlock’s Scepter\|Warlock’s Scepter]]      |   Varies    |    3 lb    |   Varies   |    None (held)  |   -   |
-<br>
 
 | Special Materials |                                              Description                                             |
 |-------------------|:----------------------------------------------------------------------------------------------------:|
 | [[Homebrew and Alt Rules/Items/Dragonglass\|Dragonglass]]       | Glass blown using the breath weapons of [[Homebrew and Alt Rules/Races/Core Races/Dragonborn/Dragonborn\|Dragonborn]] that is much more durable than traditional glass. |
+
+### [[Homebrew and Alt Rules/Rules/In-Person Games/Bulk\|Bulk]] Items ###
+
+|                                        Item Name                                        |  Price  | Bulk |         Aura         | Slot |                                                     Special                                                      |
+| :-------------------------------------------------------------------------------------: | :-----: | :--: | :------------------: | :--: | :--------------------------------------------------------------------------------------------------------------: |
+|          [Backpack](https://2e.aonprd.com/Equipment.aspx?ID=2704&Redirected=1)          |   1sp   |  *   |          -           |  -   |                                                        -                                                         |
+| [Bag of Holding (Types I-IV)](https://2e.aonprd.com/Equipment.aspx?ID=249&NoRedirect=1) |    *    |  1   | Moderate Conjuration |  -   | Still uses pf1e [Bag of Holding](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bag-of-holding/) Prices |
+|                       [[Homebrew and Alt Rules/Items/Handy Haversack (Bulk)\|Handy Haversack]]                       | 1,800gp |  *   | Moderate Conjuration |  -   |                                                        -                                                         |
