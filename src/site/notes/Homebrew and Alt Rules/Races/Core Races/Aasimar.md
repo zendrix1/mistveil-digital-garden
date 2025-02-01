@@ -7,7 +7,7 @@ The Aasimar are a mysterious and rare race that seem to appear out of thin air. 
 
 ![Aasimar_male.jpg](/img/user/Attachments/Aasimar_male.jpg)
 ### Aasimar Racial Traits
-- Ability Score Racial Traits: Aasimar are insightful, confident, and personable but don't tend to be researchers or book learners. They gain +2 Wis, +2 Cha, and -2 Int.
+- Ability Score Racial Traits: Aasimar are insightful, confident, and personable but don't tend to be the most agile. They gain +2 Wis, +2 Cha, and -2 Dex.
 - Size: Aasimar are Medium creatures.
 - Type: Aasimar are [Outsiders](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types/#TOC-Outsider) with the [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Native Subtype\|Native Subtype]].
 - Base Speed: Aasimar have a base speed of 30 feet.
