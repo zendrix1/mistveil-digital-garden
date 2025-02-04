@@ -25,7 +25,7 @@ Although not social creatures, Dwarves put a large emphasis on appearing and act
 - Stonecunning: Dwarves gain a +2 bonus on [Perception](http://www.d20pfsrd.com/skills/perception) checks to notice unusual stonework, such as traps and hidden doors located in stone walls or floors. They receive a check to notice such features whenever they pass within 10 feet of them, whether or not they are actively looking.
 - Craftsman: Dwarves are known for their superior craftsmanship when it comes to metallurgy and stonework. Dwarves with this racial trait receive a +2 racial bonus on all Craft or Profession checks related to metal or stone.
 - Rock Stepper: Dwarves can skillfully negotiate rocky terrain. They can ignore difficult terrain created by rubble, broken ground, or steep stairs when they take a 5-foot step.
-- [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Darkvision\|Darkvision]]: Dwarves can see in the dark up to 60 feet.
+- Darkvision: Dwarves can see in the dark up to 60 feet.
 - Weapon Familiarity: Dwarves are proficient with battleaxes, heavy picks, and warhammers, and treat any weapon with the word “dwarven” in its name as a martial weapon.
 - Age:
     - Adulthood: 40 years
