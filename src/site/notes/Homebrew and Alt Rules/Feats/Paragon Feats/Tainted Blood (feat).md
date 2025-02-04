@@ -22,7 +22,7 @@ A Vampire can suck blood from a grappled opponent; if the Vampire establishes or
 The Vampire's creature type becomes _Vampire_ and their subtype remains the same as it was before turning. For example, a [[Homebrew and Alt Rules/Races/Core Races/High Elves\|High Elf]] who turns into a Vampire would change their creature type to _Vampire (elf)_. This means they retain any traits from their previous subtype and in addition gain the traits from the _Vampire_ creature type. Any contradictory traits are overwritten by the _Vampire_ traits. Vampire's are considered _[Undead](https://www.d20pfsrd.com/bestiary/rules-for-monsters/Creature-types/#TOC-Undead)_ for the purpose of all effects but have slightly varying traits, listed below.
 
 - No Constitution score. Vampires use their Charisma score in place of their Constitution score when calculating hit points, Fortitude saves, and any special ability that relies on Constitution (such as when calculating a breath weapon’s DC).
-- [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Darkvision\|Darkvision]] 60 feet.
+- [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Superior Darkvision\|Superior Darkvision]] 60 feet.
 - +4 racial bonus against all mind-affecting effects (charms, compulsions, morale effects, patterns, and phantasms).
 - Immunity to death effects, disease, paralysis, poison, sleep effects, and stunning.
 - Not subject to nonlethal damage, ability drain, or energy drain. Immune to damage to its physical ability scores (Constitution, Dexterity, and Strength), as well as to exhaustion and fatigue effects, except from the _Blood Dependency_ ability.
