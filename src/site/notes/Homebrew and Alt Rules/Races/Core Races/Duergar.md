@@ -19,7 +19,7 @@ Native to the [[Cosmology/Inner Realms/Depths\|Depths]], the Duergar are a subte
 - Magic Resistant: Duergar have a natural resistance to magic and gain spell resistance equal to 5 + their character level. This resistance can be lowered for 1 round as a standard action.
 - Rock Stepper: Duergar can skillfully negotiate rocky terrain. They can ignore difficult terrain created by rubble, broken ground, or steep stairs when they take a 5-foot step.
 - [*Enlarge Person*](https://www.d20pfsrd.com/magic/all-spells/e/enlarge-person/) (Sp): A Duergar can use enlarge person once per day, using its character level as its caster level and affecting itself only.
-- [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Darkvision\|Superior Darkvision]]: Duergar have superior darkvision, allowing them to see perfectly in the dark up to 120 feet.
+- [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Superior Darkvision\|Superior Darkvision]]: Duergar have superior darkvision, allowing them to see perfectly in the dark up to 120 feet.
 - Light Sensitivity: Duergar are dazzled in areas of bright light.
 - Weapon Familiarity: Duergar are proficient with battleaxes, heavy picks, and warhammers, and treat any weapon with the word “dwarven” in its name as a martial weapon.
 - Age:
