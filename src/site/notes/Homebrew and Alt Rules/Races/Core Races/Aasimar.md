@@ -16,7 +16,7 @@ The Aasimar are a mysterious and rare race that seem to appear out of thin air. 
 - Skilled: Aasimar have a +2 racial bonus on [Diplomacy](https://www.d20pfsrd.com/skills/diplomacy) and [Perception](https://www.d20pfsrd.com/skills/perception) checks.
 - Spell-Like Ability (Sp): Aasimar can use [*Daylight*](https://www.d20pfsrd.com/magic/all-spells/d/daylight) once per day as a spell-like ability (caster level equal to the Aasimar’s class level).
 - Perfect Body: Aasimar gain a +1 racial bonus to all saving throws.
-- [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Darkvision\|Darkvision]]: Aasimar can see in the dark up to 60 feet.
+- Darkvision: Aasimar can see in the dark up to 60 feet.
 - Age:
     - Adulthood: 18 years
     - Middle Age: 80 years
