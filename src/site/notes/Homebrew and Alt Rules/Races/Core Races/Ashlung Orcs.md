@@ -19,7 +19,7 @@ The Orcs of the [[Ashlands\|Ashlands]] have had a troubled history. Their cultur
 - Heat Resistant: Ashlungs act as if always under the effect of the Endure Elements spell, but only pertaining to heat.
 - Ferocity: Ashlungs possess the ferocity ability which allows them to remain conscious and continue fighting even if their hit point totals fall below 0. Ashlung Orcs are still staggered at 0 hit points or lower and lose 1 hit point each round as normal. Ashlungs count has having the Diehard feat for the purposes of other prerequisites.
 - Weapon Familiarity: Ashlungs treat any weapon with the word “orc” in its name as a martial weapon.
-- [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Darkvision\|Darkvision]]: Ashlungs can see in the dark up to 60 feet.
+- Darkvision: Ashlungs can see in the dark up to 60 feet.
 - Age:
     - Adulthood: 15 years
     - Middle Age: 30 years
