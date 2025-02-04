@@ -21,7 +21,7 @@ The Thri-Kreen are a race of mantis-like, insectoid humanoids who specialize in 
 - Weapon Familiarity: Thri-Kreen can treat [gythkas](https://mistveil.fandom.com/wiki/Gythka "Gythka") and [chatkchas](https://mistveil.fandom.com/wiki/Chatkcha "Chatkcha") as martial weapons rather than exotic weapons.
 - Naturally Psionic: Thri-Kreen gain 1 bonus power point at 1st level. This benefit does not grant them the ability to manifest powers unless they gain that ability through another source, such as levels in a psionic class.
 - Psi-Like Abilities: 1/day [Chameleon](https://www.d20pfsrd.com/alternative-rule-systems/psionics-unleashed/psionic-powers/c/chameleon/), [Concealing Amorpha](https://www.d20pfsrd.com/alternative-rule-systems/psionics-unleashed/psionic-powers/c/concealing-amorpha/), [Metaphysical Claw](https://www.d20pfsrd.com/alternative-rule-systems/psionics-unleashed/psionic-powers/m/metaphysical-claw/). Manifester level is equal to 1/2 Hit Dice (minimum 1st). The save DCs are Charisma-based.
-- [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Darkvision\|Darkvision]]: Thri-Kreen can see in the dark up to 30 feet.
+- Darkvision: Thri-Kreen can see in the dark up to 30 feet.
 - Age:
     - Adulthood: 5 years
     - Middle Age: 16 years
