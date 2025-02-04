@@ -14,7 +14,7 @@ These hybrids between [[Homebrew and Alt Rules/Races/Core Races/Ashlung Orcs\|As
 - Intimidating: Half-Ashlung Orc receive a +2 racial bonus on [Intimidate](https://www.d20pfsrd.com/skills/intimidate) checks due to their fearsome nature.
 - Moment of Ferocity: Once per day, when a Half-Ashlung Orc is brought below 0 hit points but not killed, he can fight on for 1 more round as if disabled. At the end of his next turn, unless brought to above 0 hit points, he immediately falls unconscious and begins dying.
 - Weapon Familiarity: Half-Ashlung Orc treat any weapon with the word “orc” in its name as a martial weapon.
-- [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Darkvision\|Darkvision]]: Half-Ashlung Orc can see in the dark up to 60 feet.
+- Darkvision: Half-Ashlung Orc can see in the dark up to 60 feet.
 - Orc Blood: Half-Ashlung Orc count as both humans and orcs for any effect related to race.
 - Age:
     - Adulthood: 15 years
