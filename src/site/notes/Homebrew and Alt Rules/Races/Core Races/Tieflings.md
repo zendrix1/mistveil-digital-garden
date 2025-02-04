@@ -17,7 +17,7 @@ This unusual race of humanoids come in many different shapes and sizes. Very sim
 - Skilled: Tieflings have a +2 racial bonus on [Bluff](http://www.d20pfsrd.com/skills/bluff) and [Stealth](http://www.d20pfsrd.com/skills/stealth) checks.
 - Spell-Like Ability (Sp): Tieflings can use [*Darkness*](http://www.d20pfsrd.com/magic/all-spells/d/darkness) once per day as a spell-like ability (caster level equal to the Tiefling's class level).
 - Wicked Body: Tieflings gain a +1 racial bonus to their existing Natural Armor.
-- [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Darkvision\|Darkvision]]: Tieflings can see in the dark up to 60 feet.
+- Darkvision: Tieflings can see in the dark up to 60 feet.
 - Age:
     - Adulthood: 18 years
     - Middle Age: 80 years
