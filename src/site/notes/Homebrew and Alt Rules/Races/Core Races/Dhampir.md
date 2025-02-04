@@ -20,7 +20,7 @@ In [[Known Continents/Mortend/Countries/Parcel/Parcël\|Parcël]] the large popu
 - Resist Level Drain (Ex): Dhampir take no penalties from energy drain effects, though he can still be killed if he accrues more negative levels then he has Hit Dice. After 24 hours, any negative levels a Dhampir takes are removed without the need for an additional saving throw.
 - Manipulative: Dhampir gain a +2 racial bonus on [Bluff](http://www.d20pfsrd.com/skills/bluff) and [Perception](http://www.d20pfsrd.com/skills/perception) checks.
 - Spell-Like Abilities (Su): Dhampir can use [*Detect Undead*](http://www.d20pfsrd.com/magic/all-spells/d/detect-undead) three times per day as a spell-like ability. The caster level for this ability equals the Dhampir’s level.
-- [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Darkvision\|Superior Darkvision]]: Dhampir see perfectly in the dark up to 60 feet.
+- [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Superior Darkvision\|Superior Darkvision]]: Dhampir see perfectly in the dark up to 60 feet.
 - Light Sensitivity: Dhampir are [dazzled](http://www.d20pfsrd.com/gamemastering/conditions#TOC-Dazzled) in areas of bright sunlight or within the radius of a [*Daylight*](http://www.d20pfsrd.com/magic/all-spells/d/daylight) spell.
 - Negative Energy Affinity: Though a living creature, Dhampir react to positive and negative energy as if they were undead; positive energy harms it, while negative energy heals it.
 - Tainted Ancestry: Dhampir sorcerers with the [[Homebrew and Alt Rules/Classes/Class Features/Tainted Bloodline\|Tainted Bloodline]] treat their Charisma score as 2 points higher for all sorcerer spells and class abilities.
