@@ -8,6 +8,7 @@
 - [[Homebrew and Alt Rules/Races/Core Races/Amica\|Amica]]
 - [[Homebrew and Alt Rules/Races/Core Races/Ashlung Orcs\|Ashlung Orcs]]
 - [[Homebrew and Alt Rules/Races/Core Races/Changelings\|Changelings]]
+- [[Dark Elves\|Dark Elves]]
 - [[Homebrew and Alt Rules/Races/Core Races/Dhampir\|Dhampir]]
 - [[Homebrew and Alt Rules/Races/Core Races/Dragonborn/Dragonborn\|Dragonborn]]
 - [[Homebrew and Alt Rules/Races/Core Races/Duergar\|Duergar]]
