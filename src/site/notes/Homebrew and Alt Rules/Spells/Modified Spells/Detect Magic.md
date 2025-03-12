@@ -19,7 +19,7 @@ _1st Round_: Presence or absence of magical auras.
 _2nd Round_: Number of different magical auras and the location of the most potent aura. This reveals the closest aura if there are multiple that are tied for the most potent.  
   
 
-_3rd Round_: The strength and location of each aura. If the items or creatures bearing the auras are in line of sight, you can determine the school of magic involved in each. (You can identify the school of one aura per turn this way). Magical areas, multiple types of magic, or strong local magical emanations may distort or conceal weaker auras.
+_3rd Round_: The strength and location of each aura. If the items or creatures bearing the auras are in line of sight, you can make [Knowledge](https://www.d20pfsrd.com/skills/knowledge) (arcana) skill checks to determine the school of magic involved in each. (Make one check per aura: DC 15 + spell level, or 15 + 1/2 caster level for a nonspell effect.) If the aura emanates from a magic item, you can attempt to identify its properties (see [Spellcraft](https://www.d20pfsrd.com/skills/spellcraft)).
 
 _Aura Strength_: An aura’s power depends on a spell’s functioning spell level or an item’s caster level; see the accompanying table. If an aura falls into more than one category, detect magic indicates the stronger of the two.
 
