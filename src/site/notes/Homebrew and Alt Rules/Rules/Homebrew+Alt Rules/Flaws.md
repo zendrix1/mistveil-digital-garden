@@ -5,6 +5,8 @@
 <sup><sup>[[Mistveil\|Mistveil]] → [[Homebrew and Alt Rules/Rules/Rules\|Rules]] → Flaws</sup></sup> 
 Flaws are optional drawbacks that a character can choose upon character creation in order to gain an extra feat. By default the number of flaws you can select is two but your GM may want to only use one if they want to avoid PC's with too many feats to start out with. In general a flaw should be as bad as a feat is good (although that is very subjective). Flaws are being used as intended if they are custom to your character and apply a penalty that will actually be detrimental. For example, a character focusing exclusively on ranged combat should not be allowed to take a flaw that gives them a penalty on melee attack rolls. Although the character being worse at melee attacks feels thematic, the penalty will rarely hamper them in anyway and thus is not a good flaw.
 
+**Reasoning**: Flaws were an alternate rule in 3.5 DnD and do allow for a lot more min-maxing but more importantly they fast-track getting abilities that are important for a character's primary "fiction", they make low level play more interesting, and they open up more character options which is pathfinder's greatest strength in my opinion. 
+
 Here are some examples of flaws made for PC's in the past to get a general idea of what they could look like:
 
 #### Scorched Past
