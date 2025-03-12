@@ -7,4 +7,6 @@ A player can use a process similar to item creation to recharge spell trigger ma
 
 For example, if you have a Wand of Scorching Ray (CL 7 for two rays) with 6 charges on it and you wanted to recharge it back to the full 50 charges, you would start by finding the base recharge price, which would be 5,250gp. Then figure out how many charges are being put onto the wand, 44 in this case, and modify that price (5250 * [44/50]) accordingly. So recharging this wand would cost you 4,620gp and, working under normal conditions, take five days to complete.
 
-If I=you wanted to recharge the same wand to only half capacity, you would be adding 19 charges to the item instead, costing you (5250 * [19/50]) a total of 1,995gp and two days work under normal conditions.
+If you wanted to recharge the same wand to only half capacity, you would be adding 19 charges to the item instead, costing you (5250 * [19/50]) a total of 1,995gp and two days work under normal conditions.
+
+**Reasoning**: This just felt like something that should have been an option to begin with, allowing item crafters to make a little better use out of the items they create or find or a gold and time cost. 
