@@ -24,3 +24,5 @@ Coins are a popular means of exchange due to their portability, but they can sti
 
 #### Bulk of Creatures
 You might need to know the Bulk of a creature, especially if you need to carry someone off the battlefield. The table that follows lists the typical Bulk of a creature based on its size, but the GM might adjust this number.
+
+**Reasoning**: Encumbrance is an important elemental to simulation-style games but playing in person rather than over a VTT can make it a pain to manage. Bulk effectively abstracts the system and makes it easier to track and less math to do while keeping carrying capacity as something important to the game.
