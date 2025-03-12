@@ -10,3 +10,5 @@ While in Initiative order, moving through an ally's space counts as difficult te
 No change to sharing space with an Ally, it is not allowed.
 
 _"Ending Your Movement: You can’t end your movement in the same square as another creature unless it is helpless. (Core Rulebook, Pg. 193)"_
+
+**Reasoning**: This is just a rule that has come up at games I have run for years where I wasn't sure what the rules as written were in the moment and had to make a call and this tends to be what most people were happy with so I made it an official houserule in my games.
