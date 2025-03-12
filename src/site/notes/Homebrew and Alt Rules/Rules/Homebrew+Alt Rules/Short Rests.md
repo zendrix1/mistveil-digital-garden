@@ -15,3 +15,4 @@ Like the normal use of the [Heal](https://www.d20pfsrd.com/skills/heal/) skill t
 
 You can only benefit from up to two Short Rests per day, even if you try and fail to [Treat Deadly Wounds](https://www.d20pfsrd.com/skills/heal#TOC-Treat-Deadly-Wounds-) during a Short Rest, effectively gaining no benefit, it still counts towards one of your Short Rests for the day.
 
+**Reasoning**: Short rests are an option that allow players to feel more open to using some of the limited abilities they have per day while also giving them another option to restore hit points if anyone has trained in the Heal skill without using magic or feeling the need to retreat from where they are exploring.
