@@ -49,3 +49,8 @@ Anyone with ranks in either Knowledge (religion) or Knowledge (planes) will reco
 Finally any denizen of the [[Cosmology/Inner Realms/Celestial Planes of Heaven/Celestial Planes of Heaven\|Celestial Planes of Heaven]], regardless of their skill ranks, will recognize the mark easily, likely desire to avoid you for fear of the corruption spreading to them, and will have a Starting Attitude one category lower than they normally would when first meeting you (even if this lowers their attitude from Unfriendly to Hostile, in which case they will act accordingly). Any attempt to improve their attitude with the Diplomacy skill has an increased DC of 10.
 
 This counts as two Flaws for the purposes of how many you are able to take at character creation and bonus feats you can receive. 
+<br>
+#### Unfrightful Presence
+**Prerequisite**: Dragon type or Draconic subtype
+*Maybe you are smaller than average for your race, maybe you lack self confidence, or perhaps you are just too darn cute. Whatever the reason, unlike the mighty true dragons that can frighten the masses with just their very presence, you can't seem to muster up a dangerous aura.*
+You suffer a -2 on Intimidate skill checks and cannot use the Intimidate skill to Demoralize an Opponent.
