@@ -4,19 +4,22 @@
 
 <sup><sup>[[Mistveil\|Mistveil]] → Items</sup></sup> 
 
-|         Item Name          |  Price   | Weight |        Aura         |    Slot     |                                              Special                                               |
-| :------------------------: | :------: | :----: | :-----------------: | :---------: | :------------------------------------------------------------------------------------------------: |
-|       [[Homebrew and Alt Rules/Items/Bandolier\|Bandolier]]        |   5sp    |   -    |          -          |    None     | Replaces vanilla [Bandolier](https://www.aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Bandolier)  |
-|        [[Homebrew and Alt Rules/Items/Chatkcha\|Chatkcha]]        |   1gp    |  2 lb  |          -          | None (held) |                                                 -                                                  |
-|         [[Homebrew and Alt Rules/Items/Gythka\|Gythka]]         |   60gp   | 20 lb  |          -          | None (held) |                                                 -                                                  |
-| [[Homebrew and Alt Rules/Items/Chasuble of Fell Power\|Chasuble of Fell Power]] | 20,000gp |  1 lb  | Moderate Necromancy |    Body     |                                                 -                                                  |
-|   [[Homebrew and Alt Rules/Items/Warlock’s Scepter\|Warlock’s Scepter]]    |  Varies  |  3 lb  |       Varies        | None (held) |                                                 -                                                  |
+|         Item Name          |  Price   | Weight |        Aura         |    Slot     |                                              Special                                              |
+| :------------------------: | :------: | :----: | :-----------------: | :---------: | :-----------------------------------------------------------------------------------------------: |
+|       [[Homebrew and Alt Rules/Items/Bandolier\|Bandolier]]        |   5sp    |   -    |          -          |    None     | Replaces vanilla [Bandolier](https://www.aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Bandolier) |
+|        [[Homebrew and Alt Rules/Items/Chatkcha\|Chatkcha]]        |   1gp    |  2 lb  |          -          | None (held) |                                                 -                                                 |
+|      [[Homebrew and Alt Rules/Items/Drake Heart\|Drake Heart]]       | 15,000gp |  1 lb  | Moderate Abjuration |    Neck     |                                                 -                                                 |
+|      [[Homebrew and Alt Rules/Items/Drake Tongue\|Drake Tongue]]      | 32,315gp |  4 lb  |  Strong Evocation   | None (held) |                                                 -                                                 |
+|      [[Homebrew and Alt Rules/Items/Drake Scale\|Drake Scale]]       | 17,170gp |  7 lb  |  Strong Evocation   | None (held) |                                                 -                                                 |
+|         [[Homebrew and Alt Rules/Items/Gythka\|Gythka]]         |   60gp   | 20 lb  |          -          | None (held) |                                                 -                                                 |
+| [[Homebrew and Alt Rules/Items/Chasuble of Fell Power\|Chasuble of Fell Power]] | 20,000gp |  1 lb  | Moderate Necromancy |    Body     |                                                 -                                                 |
+|   [[Homebrew and Alt Rules/Items/Warlock’s Scepter\|Warlock’s Scepter]]    |  Varies  |  3 lb  |       Varies        | None (held) |                                                 -                                                 |
 
-| Special Materials |                                              Description                                             |
-|-------------------|:----------------------------------------------------------------------------------------------------:|
-| [[Homebrew and Alt Rules/Items/Dragonglass\|Dragonglass]]       | Glass blown using the breath weapons of [[Homebrew and Alt Rules/Races/Core Races/Dragonborn/Dragonborn\|Dragonborn]] that is much more durable than traditional glass. |
+| <center>Special Materials</center> |                                               Description                                                |
+| ----------------- | :------------------------------------------------------------------------------------------------------: |
+| <center>[[Homebrew and Alt Rules/Items/Dragonglass\|Dragonglass]]</center>   | Glass blown using the breath weapons of [[Homebrew and Alt Rules/Races/Core Races/Dragonborn/Dragonborn\|Dragonborn]] that is much more durable than traditional glass. |
 
-### [[Homebrew and Alt Rules/Rules/In-Person Games/Bulk\|Bulk]] Items ###
+### [[Homebrew and Alt Rules/Rules/In-Person Games/Bulk\|Bulk]] Related Items ###
 
 |                                        Item Name                                        |  Price  | Bulk |         Aura         | Slot |                                                     Special                                                      |
 | :-------------------------------------------------------------------------------------: | :-----: | :--: | :------------------: | :--: | :--------------------------------------------------------------------------------------------------------------: |
