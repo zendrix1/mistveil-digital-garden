@@ -14,6 +14,7 @@ One of the largest regions on [[Known Continents/Mortend/Countries/Parcel/Parcë
 - [[Homebrew and Alt Rules/Races/Core Races/Amica\|Amica]]
 - [[Homebrew and Alt Rules/Races/Core Races/Vafer\|Vafer]]
 - [[Homebrew and Alt Rules/Races/Core Races/Vanara\|Vanara]]
+- [[Homebrew and Alt Rules/Races/Core Races/Halflings\|Halflings]]
 <br>
 ## Notable Figures
 > [!todo] TODO
