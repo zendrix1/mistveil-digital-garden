@@ -58,6 +58,7 @@ Like many of their kind, the Kobolds of [[Razuth's Spine\|Razuth's Spine]] are w
 - Paladin: Add 1/4 to the [deflection bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Deflection-Bonus) granted by your [smite evil](https://www.d20pfsrd.com/classes/core-classes/paladin#TOC-Smite-Evil-Su-) ability.
 - Ranger: Add +1/4 to the number of opponents the [ranger](https://www.d20pfsrd.com/classes/core-classes/ranger) may select when using hunter’s bond to grant a bonus to allies. All selected creatures must be of the same type.
 - Rogue: Add +1/2 to the [rogue’s](https://www.d20pfsrd.com/classes/core-classes/rogue) [trap sense](https://www.d20pfsrd.com/classes/core-classes/rogue#TOC-Trap-Sense-Ex-) bonus to AC.
+- Scholar: Gain +1/6 of a scholar’s knack.
 - Sorcerer: Choose acid, cold, electricity, or fire damage. Add +1/2 point of the chosen energy damage to spells that deal the chosen energy damage cast by the [sorcerer](https://www.d20pfsrd.com/classes/core-classes/sorcerer).
 - Summoner: Add +1/4 to the [summoner’s](https://www.d20pfsrd.com/classes/base-classes/summoner) shield ally bonus (maximum +2).
 - Witch: Add +5 feet to the distance at which her [familiar](https://www.d20pfsrd.com/bestiary/monster-listings/animals/familiar) grants the [Alertness](https://www.d20pfsrd.com/feats/general-feats/alertness) feat (maximum +20 feet).
