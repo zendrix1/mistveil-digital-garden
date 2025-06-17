@@ -5,7 +5,7 @@
 <sup><sup>[[Mistveil\|Mistveil]] → [[Known Continents/Mortend/Mortend\|Mortend]] → Baylore</sup></sup>
 Baylore is a country on the east coast of [[Known Continents/Mortend/Mortend\|Mortend]] that is ruled over by noble families of humans. The country was part of the [[Lord of Rot\|Lord of Rot]]'s empire but early on in the [[civil war\|civil war]] that would eventually topple that empire, a number of noble houses lead by [[House Baylore\|House Baylore]], [[House Artanis\|House Artanis]], and [[House Vardona\|House Vardona]] led a rebellion that pushed the empire's forces out of the country to claim it as their own. The country they formed was named the Divine Kingdom of Baylore after the largest of the three houses leading the rebellion. Modern-day Baylore is still run by noble families who each have a number of representatives based on their size that make up a governing council. This council is based in the [[Holy City of Vardona\|Holy City of Vardona]] (named after [[House Vardona\|House Vardona]]), the capital city of Baylore.
 
-[[Known Continents/Mortend/Countries/Baylore/Baylore's Calendar\|Baylore's Calendar]]
+[[Known Continents/Mortend/The Common Calendar\|The Common Calendar]]
 
 ## Settlements & Forts
 - [[Known Continents/Mortend/Countries/Baylore/locations/Braxlow\|Braxlow]]
