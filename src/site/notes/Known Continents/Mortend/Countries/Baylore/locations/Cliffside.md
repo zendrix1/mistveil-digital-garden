@@ -5,7 +5,7 @@
 <sup><sup>[[Mistveil\|Mistveil]] → [[Known Continents/Mortend/Mortend\|Mortend]] → [[Known Continents/Mortend/Countries/Baylore/Divine Kingdom of Baylore\|Baylore]] → Cliffside</sup></sup>
 A small mining town located on the western border of [[Known Continents/Mortend/Countries/Baylore/Divine Kingdom of Baylore\|Baylore]], against the sheer cliffs of the [[Shielding Spine Mountains\|Shielding Spine Mountains]]. Famous for the great forge in the center of the town and the mysterious mineral that is mined and refined there, [[Blackore\|Blackore]]. The chance to work with the substance and use the powerful forge has caused many craftsmen to move to the small town and attempt to become Forgemasters.
 
-In [[Known Continents/Mortend/Countries/Baylore/Baylore's Calendar\|Junian]] of 1486 DA the town was almost completely destroyed by a [[Formian\|Formian]] raiding party but managed to fend off the attack at the cost of many of the citizens' lives.
+In [[Known Continents/Mortend/The Common Calendar\|Junian]] of 1486 DA the town was almost completely destroyed by a [[Formian\|Formian]] raiding party but managed to fend off the attack at the cost of many of the citizens' lives.
 
 ## Landmarks & Businesses
 > [!TODO] TODO
