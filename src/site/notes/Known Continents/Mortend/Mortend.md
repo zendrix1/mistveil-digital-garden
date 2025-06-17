@@ -16,5 +16,11 @@ One of the continents within the [[Mistveil\|Mistveil]], Mortend is a land livin
 - [[Known Continents/Mortend/Countries/Parcel/Parcël\|Parcël]]
 - [[Sumoor\|Sumoor]]
 
+## Regions
+- [[Tempest Vale\|Tempest Vale]]
+
+## Resources
+- [[Known Continents/Mortend/The Common Calendar\|The Common Calendar]]
+
 > [!todo] TODO
-> Make map of continent, factions/religions
+> Make map of continent, factions/religions, other countries and regions, etc
