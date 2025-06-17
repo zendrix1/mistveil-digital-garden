@@ -3,7 +3,7 @@
 ---
 
 <sup><sup>[[Mistveil\|Mistveil]] → [[Homebrew and Alt Rules/Items/Items\|Items]] → Dragonglass</sup></sup> 
-Dragonglass is a special glass that is made by using the breath weapon of a [[Homebrew and Alt Rules/Races/Core Races/Dragonborn/Dragonborn\|Dragonborn]] during the glass blowing process. The exact method of doing so is a tradition that is passed down through generations of [[Homebrew and Alt Rules/Races/Core Races/Dragonborn/Dragonborn\|Dragonborn]] clans within the [[Known Continents/Mortend/Countries/Deadlands/Deadlands\|Deadlands]]. The glass is colored the same as the scale color of the [[Homebrew and Alt Rules/Races/Core Races/Dragonborn/Dragonborn\|Dragonborn]] who created it. Dragonglass is commonly used for jewelry or other decorative items but is very durable and could be used to make armor or weapons as well. 
+Dragonglass is a special glass that is made by using the breath weapon of a [[Homebrew and Alt Rules/Races/Core Races/Dragonborn/Dragonborn\|Dragonborn]] during the glass blowing process. The exact method of doing so is a tradition that is passed down through generations of [[Homebrew and Alt Rules/Races/Core Races/Dragonborn/Dragonborn\|Dragonborn]] clans within the [[Known Continents/Mortend/Regions/The Deadlands/The Deadlands\|The Deadlands]]. The glass is colored the same as the scale color of the [[Homebrew and Alt Rules/Races/Core Races/Dragonborn/Dragonborn\|Dragonborn]] who created it. Dragonglass is commonly used for jewelry or other decorative items but is very durable and could be used to make armor or weapons as well. 
 
 - **HP/inch**: 20
 - **Hardness**: 5
