@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/known-continents/mortend/the-common-calendar/"}
 ---
 
-<sup><sup>[[Mistveil\|Mistveil]] → The Common Calendar</sup></sup> 
+<sup><sup>[[Mistveil\|Mistveil]] → [[Known Continents/Mortend/Mortend\|Mortend]] → The Common Calendar</sup></sup> 
 The [[Known Continents/Mortend/Countries/Baylore/Divine Kingdom of Baylore\|Divine Kingdom of Baylore]] uses a calendar that they created and has been adopted by most of the Common speaking countries on [[Known Continents/Mortend/Mortend\|Mortend]] since which is why it is often referred to as the "Common Calendar". It consists of twelve, twenty five day months and the current label for years is DA, which stands for Divine Age, which counts the years since for the formation of [[Known Continents/Mortend/Countries/Baylore/Divine Kingdom of Baylore\|Baylore]] following the rebellion against the [[Lord of Rot\|Lord of Rot]].
 
 Months (25 days each)
