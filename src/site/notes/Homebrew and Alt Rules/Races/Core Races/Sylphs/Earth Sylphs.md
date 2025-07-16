@@ -3,7 +3,7 @@
 ---
 
 <sup><sup>[[Mistveil\|Mistveil]] → [[Homebrew and Alt Rules/Races/Races\|Races]] → [[Homebrew and Alt Rules/Races/Core Races/Sylphs/Sylphs\|Sylphs]] → Earth Sylphs</sup></sup>
-Earth Sylphs are usually stout, well built, and have dark brown or black geographical shapes across their body always made out of straight lines. Unique traits an Earth Sylph could potentially display could include a slight tremor that is felt whenever they raise their voice or a room they spend too long in starting to become covered in a small layer of dirt. 
+Earth Sylphs are usually stout, well built, and have dark brown or black geometric shapes across their body. Unique traits an Earth Sylph could potentially display could include a slight tremor that is felt whenever they raise their voice or a room they spend too long in starting to become covered in a small layer of dirt. 
 
 ![earth_sylph.webp|300](/img/user/Attachments/earth_sylph.webp)
 
