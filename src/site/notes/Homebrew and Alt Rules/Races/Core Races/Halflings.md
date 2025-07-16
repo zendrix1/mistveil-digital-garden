@@ -10,6 +10,8 @@ Another common race native to the country of [[Known Continents/Mortend/Countrie
 [[Known Continents/Mortend/Countries/Parcel/Parcël\|Parcël]] is home to two small populations of Halflings. The larger and older of the two are a group of Halflings native to the island and living in the [[Known Continents/Mortend/Countries/Parcel/locations/Double Plains\|Double Plains]]. They mostly keep to the western shores of the region and have a positive relationship with the [[Homebrew and Alt Rules/Races/Core Races/Vafer\|Vafer]] who also live in the area. These native Halflings have built their culture around some of the feathered and scaled beasts that can be found in the different regions of [[Known Continents/Mortend/Countries/Parcel/Parcël\|Parcël]] and take great care in capturing, breeding, and taming them. 
 
 The other group of Halflings found on [[Known Continents/Mortend/Countries/Parcel/Parcël\|Parcël]] live in the city of [[Known Continents/Mortend/Countries/Parcel/locations/goblin weald/New Voadlan\|New Voadlan]] and are part of the colonists from the country of [[Esoria\|Esoria]]. They don't make up a very large portion of the colonists, being a minority in their home country of [[Esoria\|Esoria]] as well, but their adventurous nature has called some to this dangerous land in hopes of betterment in some form or another. 
+#### Halflings in [[Known Continents/Mortend/Regions/The Tempest Basin/The Tempest Basin\|The Tempest Basin]]
+> [!todo] TODO
 
 ![halfling_female.png|323](/img/user/Attachments/halfling_female.png) ![halfling_male.jpg|372](/img/user/Attachments/halfling_male.jpg)
 
