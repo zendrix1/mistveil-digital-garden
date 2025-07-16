@@ -17,7 +17,7 @@ One of the continents within the [[Mistveil\|Mistveil]], Mortend is a land livin
 ## Regions
 - [[The Ashlands\|The Ashlands]]
 - [[Known Continents/Mortend/Regions/The Deadlands/The Deadlands\|The Deadlands]]
-- [[The Tempest Basin\|The Tempest Basin]]
+- [[Known Continents/Mortend/Regions/The Tempest Basin/The Tempest Basin\|The Tempest Basin]]
 
 ## Resources
 - [[Known Continents/Mortend/The Common Calendar\|The Common Calendar]]
