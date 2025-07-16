@@ -45,7 +45,7 @@ Baylore is a country on the east coast of [[Known Continents/Mortend/Mortend\|Mo
 
 ## Factions
 - [[Barbed Gang\|Barbed Gang]]
-- [[Church of Caelum\|Church of Caelum]]
+- [[Known Continents/Mortend/Countries/Baylore/factions/Church of Caelum\|Church of Caelum]]
 - [[Cult of Eyes\|Cult of Eyes]]
 - [[Fringe Religions\|Fringe Religions]]
 - [[House Artanis\|House Artanis]]
