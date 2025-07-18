@@ -26,6 +26,3 @@ The clan of Dromites that live inside the [[Known Continents/Mortend/Regions/The
 #### Dromites Alternate Racial Traits
 > [!todo] TODO
 > male and female alternate traits
-<br>
-#### Dromites Favored Class Bonuses
-> [!todo] TODO
