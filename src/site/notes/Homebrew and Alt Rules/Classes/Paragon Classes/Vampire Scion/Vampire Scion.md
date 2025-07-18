@@ -122,3 +122,14 @@ At 20th level, the Vampire has learned how to truly tap into the [Tainted Blood]
 
 > [!TODO] TODO
 > Rest of capstone ability
+
+<br>
+
+### Favored Class Bonus Options
+The following are the different options for the special favored class bonuses for the Vampire Scion.
+- 
+
+> [!TODO] 
+
+<br>
+
