@@ -33,6 +33,7 @@
 |                                                            [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Spell Trigger Item Recharge\|Spell Trigger Item Recharge]]                                                             |                            Use item creation rules to recharge spell trigger items.                            |
 |                                                                [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Superior Darkvision\|Superior Darkvision]]                                                                 |                      Creatures with Superior Darkvision can see in any type of darkness.                       |
 |                                        [Unchained Classes](https://mistveil.fandom.com/wiki/Unchained_Classes)                                         |                         Unchained versions of classes are used over original classes.                          |
+|                                                          [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Universal Favored Class Bonuses\|Universal Favored Class Bonuses]]                                                           |                              New FCB options and unification of existing options.                              |
 
 <br>
 
