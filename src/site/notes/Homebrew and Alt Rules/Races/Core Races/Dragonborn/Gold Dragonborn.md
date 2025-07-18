@@ -27,11 +27,3 @@ Gold Dragonborn are the rarest variation of the race, only born once every 300 y
 #### Gold Dragonborn Alternate Racial Traits
 - Alternate Natural Attack: Some Dragonborn are more inclined to fight with other natural weapons instead of their jaws. Select either claws (1d4 damage each) or tail slap (1d6 damage) and gain that natural attack instead of a natural bite attack. This racial trait modifies Bite.
 - Runner: All Dragonborn naturally have strong legs but some are born especially light and quick on their feet. Your base speed is 35 feet instead of 30 but your Natural Armor trait only grants a +1 natural armor bonus. This racial trait modifies Base Speed and Natural Armor.
-<br>
-#### Gold Dragonborn Favored Class Bonuses
-- [Cleric](https://www.d20pfsrd.com/classes/core-classes/cleric/): Add +1/3 to the amount of damage dealt or damage healed when the cleric uses channel energy or add a +1/4 bonus on [caster level](https://www.d20pfsrd.com/magic#TOC-Caster-Level) checks to remove afflictions (curses, diseases, poisons, etc.).
-- [Inquisitor](https://www.d20pfsrd.com/classes/base-classes/inquisitor/): Add one spell known from the inquisitor’s spell list. This spell must be at least one level below the highest-level spell the inquisitor can cast.
-- [Monk](https://www.d20pfsrd.com/classes/unchained-classes/monk-unchained): Add +1/3 to the [monk’s](https://www.d20pfsrd.com/classes/core-classes/monk) AC bonus class ability.
-- [Oracle](https://www.d20pfsrd.com/classes/base-classes/oracle/): Add +1/4 to the armor or [natural armor bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Natural-Armor-Bonus) granted by [oracle](https://www.d20pfsrd.com/classes/base-classes/oracle) spells she casts on herself.
-- [Paladin](https://www.d20pfsrd.com/classes/core-classes/paladin/): Add 1/4 to the [deflection bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Deflection-Bonus) granted by your [smite evil](https://www.d20pfsrd.com/classes/core-classes/paladin#TOC-Smite-Evil-Su-) ability.
-- [Warpriest](https://www.d20pfsrd.com/classes/hybrid-classes/warpriest/): Add ¼ to the warpriest’s effective level when determining the damage of his [sacred weapon](https://www.d20pfsrd.com/classes/hybrid-classes/warpriest#TOC-Sacred-Weapon-Su-).
