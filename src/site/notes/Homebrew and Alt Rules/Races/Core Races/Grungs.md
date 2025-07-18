@@ -18,6 +18,3 @@ todo
 <br>
 #### Grungs Alternate Racial Traits
 - 
-<br>
-#### Grungs Favored Class Bonuses
-- 
