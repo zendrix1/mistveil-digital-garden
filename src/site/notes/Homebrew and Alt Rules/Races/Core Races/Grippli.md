@@ -18,6 +18,3 @@ todo
 <br>
 #### Grippli Alternate Racial Traits
 - 
-<br>
-#### Grippli Favored Class Bonuses
-- 
