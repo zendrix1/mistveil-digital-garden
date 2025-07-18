@@ -220,6 +220,14 @@ Starting at 18th level, and every two levels thereafter, a warlock can choose of
 ##### Warlock Supreme (Su)
 At 20th level, the warlock undergoes an eldritch apotheosis that is the culmination of all that he has strived to achieve. His two energy resistances improve to immunities and he gains resistance 10 against the two energy types he did not select. Five times per day, but no more than once per round, he may use his eldritch blast, and any applied invocations, as a swift action instead of a standard action. His damage reduction increases to DR 10/cold iron and magic or DR 10/silver and magic, depending on which material the character selected at 3rd level. The warlock can also select one 7th-level [sorcerer/wizard](http://www.d20pfsrd.com/magic/tools/spell-list-filters/sorcerer-wizard-spell-list-filter/) or [witch](http://www.d20pfsrd.com/magic/tools/spell-list-filters/witch-spell-list-filter/) spell of his choice and add it to his spells known as a 6th-level warlock spell.
 <br>
+### Favored Class Bonus Options
+The following are the different options for the special favored class bonuses for the Warlock.
+- 
+
+> [!TODO] 
+
+<br>
+
 ##### Clarifications
 **Warlocks and Metamagic-type Feats**: Warlocks are not eligible for feats such as [Empower Spell-Like Ability](https://www.d20pfsrd.com/feats/monster-feats/empower-spell-like-ability/) or [Quicken Spell-Like Ability](https://www.d20pfsrd.com/feats/monster-feats/quicken-spell-like-ability/). The eldritch blast and various invocations are classified as supernatural abilities, and there is sufficient difference between the two that the warlock is unable to use these monster feats. In much the same fashion, a warlock cannot apply a [metamagic feat](https://www.d20pfsrd.com/feats/metamagic-feats/) to his eldritch blast or to his various invocations (although he can apply such feats to his spells as normal).
 
