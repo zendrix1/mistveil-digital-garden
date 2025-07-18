@@ -125,3 +125,11 @@ At 14th level, the range of the Beast Dancer’s empathic link with her Bonded C
 <br>
 ##### As One (Su)
 At 20th level, the Beast Dancer is so entuned with their Bonded Companion that they no longer have any limitation on how long they can stay in a Beast Dance, letting them start and maintain the ability at-will. In addition, when entering a Beast Dance the Beast Dancer can choose two of their Nature Forms and Animal Aspects to use instead of only one each.
+<br>
+### Favored Class Bonus Options
+The following are the different options for the special favored class bonuses for the Beast Dancer.
+- 
+
+> [!TODO] 
+
+<br>
