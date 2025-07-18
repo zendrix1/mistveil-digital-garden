@@ -27,10 +27,3 @@ Green Dragonborn are the lightest of the seven variations for their height at an
 #### Green Dragonborn Alternate Racial Traits
 - Alternate Natural Attack: Some Dragonborn are more inclined to fight with other natural weapons instead of their jaws. Select either claws (1d4 damage each) or tail slap (1d6 damage) and gain that natural attack instead of a natural bite attack. This racial trait modifies Bite.
 - Runner: All Dragonborn naturally have strong legs but some are born especially light and quick on their feet. Your base speed is 35 feet instead of 30 but your Natural Armor trait only grants a +1 natural armor bonus. This racial trait modifies Base Speed and Natural Armor.
-<br>
-#### Green Dragonborn Favored Class Bonuses
-- [Cleric](https://www.d20pfsrd.com/classes/core-classes/cleric/): Add +2/3 to damage when using positive energy against undead.
-- [Druid](https://www.d20pfsrd.com/classes/core-classes/druid/): Add +1/2 to the [druid’s](https://www.d20pfsrd.com/classes/core-classes/druid) [wild empathy](https://www.d20pfsrd.com/classes/core-classes/druid#TOC-Wild-Empathy-Ex-) bonus.
-- [Monk](https://www.d20pfsrd.com/classes/unchained-classes/monk-unchained): Add +1/3 to the [monk’s](https://www.d20pfsrd.com/classes/core-classes/monk) AC bonus class ability.
-- [Oracle](https://www.d20pfsrd.com/classes/base-classes/oracle/): Add +1/4 to the armor or [natural armor bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Natural-Armor-Bonus) granted by [oracle](https://www.d20pfsrd.com/classes/base-classes/oracle) spells she casts on herself.
-- [Ranger](https://www.d20pfsrd.com/classes/core-classes/ranger/): Add +1 hit point to the ranger’s [animal](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Animal) companion. If the Dragonborn ever replaces his [animal companion](https://www.d20pfsrd.com/classes/core-classes/druid/animal-companions), the new [animal companion](https://www.d20pfsrd.com/classes/core-classes/druid/animal-companions) gains these bonus [hit points](https://www.d20pfsrd.com/gamemastering/combat#TOC-Hit-Points).
