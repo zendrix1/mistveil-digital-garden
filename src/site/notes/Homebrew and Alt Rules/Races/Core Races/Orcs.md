@@ -28,13 +28,3 @@ Physically, Orcs are larger than the average [[Homebrew and Alt Rules/Races/Core
 #### Orc Alternate Racial Traits
 
 > [!TODO] TODO
-<br>
-#### Orc Favored Class Bonuses
-- [Alchemist](https://www.d20pfsrd.com/classes/base-classes/alchemist/): Add +10 minutes to the duration of the alchemist’s mutagens.
-- [Barbarian](https://www.d20pfsrd.com/classes/core-classes/barbarian/): Add +1 to the barbarian’s total number of rage rounds per day.
-- [Cavalier](http://www.d20pfsrd.com/classes/base-classes/cavalier/): Add +1 to the cavalier’s CMB when making bull rush or overrun combat maneuvers against a challenged target.
-- [Druid](https://www.d20pfsrd.com/classes/core-classes/druid/): Add +1/2 to the damage dealt by the druid’s animal companion’s natural attacks.
-- [Fighter](https://www.d20pfsrd.com/classes/core-classes/fighter/): Add +2 to the Fighter’s Constitution score for the purpose of determining when he dies from negative hit points.
-- [Ranger](https://www.d20pfsrd.com/classes/core-classes/ranger/): Add +1 hit point to the ranger’s animal companion. If the ranger ever replaces his animal companion, the new animal companion gains these bonus hit points.
-- [Shaman](https://www.d20pfsrd.com/classes/hybrid-classes/shaman/): Add one spell from the cleric spell list that isn’t on the shaman spell list to the list of spells the shaman knows. This spell must be at least 1 level below the highest spell level the shaman can cast.
-- [Witch](https://www.d20pfsrd.com/classes/base-classes/witch/): Add one spell from the witch spell list to the witch’s familiar. This spell must be at least one level below the highest spell level she can cast. If the witch ever replaces her familiar, the new familiar knows these bonus spells.
