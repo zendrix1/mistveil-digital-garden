@@ -7,7 +7,7 @@ Perhaps the most alien race found in [[Known Continents/Mortend/Countries/Baylor
 
 ![Masculine_Volc-Nah.webp|281](/img/user/Attachments/Masculine_Volc-Nah.webp) ![Femine_Volc-Nah.webp|270](/img/user/Attachments/Femine_Volc-Nah.webp)
 
-### Volc-Nah Racial Traits (Masculine)
+### Volc-Nah Racial Traits (Masculine Looking)
 - Ability Score Racial Traits: The masculine looking Volc-Nah are physically hardy but not very intelligent. They gain +2 Str, +2 Con, -2 Int
 - Size: Volc-Nah are medium creatures.
 - Type: Volc-Nah are Humanoids with the Reptilian subtype.
@@ -24,28 +24,12 @@ Perhaps the most alien race found in [[Known Continents/Mortend/Countries/Baylor
     - Venerable: 120 years
     - Maximum Age: 180 years
 <br>
-#### Volc-Nah Alternate Racial Traits (Masculine)
+#### Volc-Nah Alternate Racial Traits (Masculine Looking)
 
 > [!TODO] TODO
 <br>
-#### Volc-Nah Favored Class Bonuses (Masculine)
-- [Barbarian](https://www.d20pfsrd.com/classes/core-classes/barbarian/):
-- [Bloodrager](http://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/):
-- [Brawler](https://www.d20pfsrd.com/classes/hybrid-classes/brawler/):
-- [Druid](https://www.d20pfsrd.com/classes/core-classes/druid/):
-- [Fighter](https://www.d20pfsrd.com/classes/core-classes/fighter/):
-- [Hunter](https://www.d20pfsrd.com/classes/hybrid-classes/hunter/):
-- [Monk](https://www.d20pfsrd.com/classes/core-classes/monk/):
-- [Ranger](https://www.d20pfsrd.com/classes/core-classes/ranger/):
-- [Rogue](http://www.d20pfsrd.com/classes/core-classes/rogue/):
-- [Skald](http://www.d20pfsrd.com/classes/hybrid-classes/skald/):
-- [Slayer](http://www.d20pfsrd.com/classes/hybrid-classes/slayer/):
-- [Summoner](http://www.d20pfsrd.com/classes/base-classes/summoner/):
-
-> [!TODO] TODO
-<br>
-### Volc-Nah Racial Traits (Feminine)
-- Ability Score Racial Traits: Feminine Volc-Nah are smaller and weaker than their counterparts but have a greater affinity for magic. They gain +2 Wis, +2 Cha, -2 Str
+### Volc-Nah Racial Traits (Feminine Looking)
+- Ability Score Racial Traits: Feminine looking Volc-Nah are smaller and weaker than their counterparts but have a greater affinity for magic. They gain +2 Wis, +2 Cha, -2 Str
 - Size: Volc-Nah are medium creatures.
 - Type: Volc-Nah are Humanoids with the Reptilian subtype.
 - Base Speed: Volc-Nah have a base speed of 30 feet.
@@ -64,23 +48,6 @@ Perhaps the most alien race found in [[Known Continents/Mortend/Countries/Baylor
     - Venerable: 140 years
     - Maximum Age: 200 years
 <br>
-#### Volc-Nah Alternate Racial Traits (Feminine)
-
-> [!TODO] TODO
-<br>
-#### Volc-Nah Favored Class Bonuses (Feminine)
-- [Alchemist](https://www.d20pfsrd.com/classes/base-classes/alchemist/):
-- [Arcanist](http://www.d20pfsrd.com/classes/hybrid-classes/arcanist/):
-- [Bard](http://www.d20pfsrd.com/classes/core-classes/bard/):
-- [Druid](https://www.d20pfsrd.com/classes/core-classes/druid/):
-- [Magus](https://www.d20pfsrd.com/classes/base-classes/magus/):
-- [Oracle](https://www.d20pfsrd.com/classes/base-classes/oracle/):
-- [Rogue](http://www.d20pfsrd.com/classes/core-classes/rogue/):
-- [Shaman](http://www.d20pfsrd.com/classes/hybrid-classes/shaman/):
-- [Skald](http://www.d20pfsrd.com/classes/hybrid-classes/skald/):
-- [Sorcerer](http://www.d20pfsrd.com/classes/core-classes/sorcerer/): Add +1/2 to acid or lightning spell or spell-like ability damage.
-- [Summoner](http://www.d20pfsrd.com/classes/base-classes/summoner/):
-- [Witch](http://www.d20pfsrd.com/classes/base-classes/witch/):
-- [Wizard](https://www.d20pfsrd.com/classes/core-classes/wizard/):
+#### Volc-Nah Alternate Racial Traits (Feminine Looking)
 
 > [!TODO] TODO
