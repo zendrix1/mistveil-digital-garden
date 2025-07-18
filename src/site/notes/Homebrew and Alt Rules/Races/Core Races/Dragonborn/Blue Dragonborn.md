@@ -27,10 +27,3 @@ Blue Dragonborn, as is the same with [[Homebrew and Alt Rules/Races/Core Races/D
 #### Blue Dragonborn Alternate Racial Traits
 - Alternate Natural Attack: Some Dragonborn are more inclined to fight with other natural weapons instead of their jaws. Select either claws (1d4 damage each) or tail slap (1d6 damage) and gain that natural attack instead of a natural bite attack. This racial trait modifies Bite.
 - Runner: All Dragonborn naturally have strong legs but some are born especially light and quick on their feet. Your base speed is 35 feet instead of 30 but your Natural Armor trait only grants a +1 natural armor bonus. This racial trait modifies Base Speed and Natural Armor.
-<br>
-#### Blue Dragonborn Favored Class Bonuses
-- [Alchemist](https://www.d20pfsrd.com/classes/base-classes/alchemist/): Add +1/2 to the number of bombs per day the [alchemist](https://www.d20pfsrd.com/classes/base-classes/alchemist) can create.
-- [Arcanist](https://www.d20pfsrd.com/classes/hybrid-classes/arcanist/): Add +1/3 to the DC to one of the arcanist’s exploits.
-- [Druid](https://www.d20pfsrd.com/classes/core-classes/druid/): Add +1/2 to the [druid’s](https://www.d20pfsrd.com/classes/core-classes/druid) [wild empathy](https://www.d20pfsrd.com/classes/core-classes/druid#TOC-Wild-Empathy-Ex-) bonus.
-- [Sorcerer](https://www.d20pfsrd.com/classes/core-classes/sorcerer/): Add +1/2 point of electric damage to spells that deal electric damage cast by the [sorcerer](https://www.d20pfsrd.com/classes/core-classes/sorcerer).
-- [Wizard](https://www.d20pfsrd.com/classes/core-classes/wizard/): Add 1/2 to your [familiar’s](https://www.d20pfsrd.com/bestiary/monster-listings/animals/familiar) [Will](https://www.d20pfsrd.com/gamemastering/combat#TOC-Will) saves against [enchantment](https://www.d20pfsrd.com/magic#TOC-Enchantment) effects, or increase the [hit points](https://www.d20pfsrd.com/gamemastering/combat#TOC-Hit-Points) of your bonded item by 1.
