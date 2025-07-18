@@ -32,17 +32,3 @@ The Thri-Kreen are a race of mantis-like, insectoid humanoids who specialize in 
 #### Thri-Kreen Alternate Racial Traits
 
 > [!TODO] TODO
-<br>
-#### Thri-Kreen Favored Class Bonuses
-
-> [!TODO] TODO
-- [Aegis](https://www.d20pfsrd.com/alternative-rule-systems/psionics-unleashed/classes/aegis): tbd
-- [Cryptic](https://www.d20pfsrd.com/alternative-rule-systems/psionics-unleashed/classes/cryptic): tbd
-- [Druid](https://www.d20pfsrd.com/classes/core-classes/druid/): tbd
-- [Fighter](https://www.d20pfsrd.com/classes/core-classes/fighter/): tbd
-- [Hunter](https://www.d20pfsrd.com/classes/hybrid-classes/hunter/): tbd
-- [Marksman](https://www.d20pfsrd.com/alternative-rule-systems/psionics-unleashed/classes/marksman): tbd
-- [Psion](https://www.d20pfsrd.com/alternative-rule-systems/psionics-unleashed/classes/psion): tbd
-- [Psychic Warrior](https://www.d20pfsrd.com/alternative-rule-systems/psionics-unleashed/classes/psychic-warrior): tbd
-- [Soulknife](https://www.d20pfsrd.com/alternative-rule-systems/psionics-unleashed/classes/soulknife): tbd
-- [Ranger](https://www.d20pfsrd.com/classes/core-classes/ranger/): tbd
