@@ -26,8 +26,6 @@ The Vishkanya who live in this area make their home on the east coast of [[Lake 
 #### Vishkanya Alternate Racial Traits
 - Subtle Appearance: You have normal (human-like) eyes, and your beauty is more conventional. You gain a +4 bonus on Disguise checks to look fully human. This racial trait replaces low-light vision.
 - Natural Weapons: You were born with clawed hands or feet and have relied on them over the traditional weaponry of your people. You gain your choice of claws or talons (medium creatures deal 1d4 with these natural attacks). This racial trait replaces Weapon Familiarity.
-<br>
-#### Vishkanya Favored Class Bonuses
 - 
-
 > [!TODO] 
+> something with the alchemy sphere in spheres of might
