@@ -20,15 +20,16 @@ The Githyanki hold a tradition of gifting a weapon to warriors they meet who the
 - Base Speed: Gith have a base speed of 30 feet.
 - Languages: Gith's native language is Gith.
 - Power Resistant: Gith have a natural resistance to psionics and gain power resistance equal to 5 + Hit Dice. This resistance can be lowered for 1 round as a standard action (see [[Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Interaction between Psionics and Magic\|Interaction between Psionics and Magic]]),
-- *Naturally Psionic: Gith gain 2 bonus power points at 1st level. This benefit does not grant them the ability to manifest powers unless they gain that ability through another source, such as levels in a psionic class.
+- Naturally Psionic: Gith gain 2 bonus power points at 1st level. This benefit does not grant them the ability to manifest powers unless they gain that ability through another source, such as levels in a psionic class.
 - Psi-Like Abilities: 1/day [Burst](https://www.d20pfsrd.com/alternative-rule-systems/psionics-unleashed/psionic-powers/b/burst), [Fortify](https://www.d20pfsrd.com/alternative-rule-systems/psionics-unleashed/psionic-powers/f/fortify). Manifester level is equal to 1/2 Hit Dice (minimum 1st). The save DCs are Charisma-based.
 - Low-Light Vision: Gith can see twice as far as humans in dim light.
-> [!NOTE] \*
-> If using Spheres of Power: Instead of gaining bonus power points, the Gith gains the Telekinesis sphere as a bonus sphere upon taking any level in a sphere casting class. If the class already grants access to the Telekinesis sphere, the Gith gains a bonus talent in that sphere instead, as per usual. 
+
 <br>
+
 #### Gith Alternate Racial Traits
 
 > [!TODO] TODO
+> Add alternate racial trait to swap out Power Resistant, Naturally Psionic, and Psi-Like Abilities with Spheres of Power effects around the Telekinesis sphere
 <br>
 #### Gith Favored Class Bonuses
 
