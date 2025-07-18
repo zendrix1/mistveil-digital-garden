@@ -179,3 +179,11 @@ At 13th level, a Shadow Apostle can use mental and physical resiliency to avoid 
 Upon reaching 20th level, a Shadow Apostle becomes incredibly deadly when sneak attacking. Each time the Shadow Apostle successfully makes a sneak attack, she can choose to deal twice the damage dealt by her channel energy ability, or force the target (if it is an outsider) to become subject to *[Banishment](https://www.d20pfsrd.com/magic/all-spells/b/banishment/)*, using her Shadow Apostle level as the caster level.
 
 Regardless of the effect chosen, the target receives a Will save (DC 10 + 1/2 the Shadow Apostle’s level + the Shadow Apostle’s Charisma modifier) for half damage or the appropriate save to negate the banishment effect. Once a creature has been the target of a divine strike, regardless of whether or not the save is successful, that creature is immune to that Shadow Apostle’s divine strike for 24 hours. Creatures that are immune to sneak attack damage are also immune to sneak attack damage from this ability, but not the channeled energy damage. 
+<br>
+### Favored Class Bonus Options
+The following are the different options for the special favored class bonuses for the Shadow Apostle.
+- 
+
+> [!TODO] 
+
+<br>
