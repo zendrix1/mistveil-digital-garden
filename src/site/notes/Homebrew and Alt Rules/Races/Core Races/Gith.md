@@ -30,7 +30,3 @@ The Githyanki hold a tradition of gifting a weapon to warriors they meet who the
 
 > [!TODO] TODO
 > Add alternate racial trait to swap out Power Resistant, Naturally Psionic, and Psi-Like Abilities with Spheres of Power effects around the Telekinesis sphere
-<br>
-#### Gith Favored Class Bonuses
-
-> [!TODO] TODO
