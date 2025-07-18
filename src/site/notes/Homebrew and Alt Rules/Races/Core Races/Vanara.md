@@ -32,11 +32,3 @@ In [[Known Continents/Mortend/Countries/Parcel/Parcël\|Parcël]], the Vanara we
 - Tree Stranger: Some Vanara have decided to dedicate themselves to studying knowledge with the [[Homebrew and Alt Rules/Races/Core Races/Vafer\|Vafer]] instead of spending their lives among their own kind. These Vanara treat all Knowledge skills as class skills, but lose their climb speed racial trait.
 
 > [!TODO] TODO
-<br>
-#### Vanara Favored Class Bonuses
-- [Alchemist](https://www.d20pfsrd.com/classes/base-classes/alchemist/): Add +1/2 to the alchemist’s bomb damage.
-- [Druid](https://www.d20pfsrd.com/classes/core-classes/druid/): Add a +1/2 bonus on wild empathy checks and a +1/2 bonus on [Handle Animal](http://www.d20pfsrd.com/skills/handle-animal) skill checks.
-- [Fighter](https://www.d20pfsrd.com/classes/core-classes/fighter/): Add +1 to the Fighter’s CMD when resisting a reposition or trip attempt.
-- [Monk](https://www.d20pfsrd.com/classes/core-classes/monk/): Add a +1 bonus on [Acrobatics](http://www.d20pfsrd.com/skills/acrobatics) checks made to jump.
-- [Ranger](https://www.d20pfsrd.com/classes/core-classes/ranger/): Add +1/4 dodge bonus to Armor Class against the ranger’s favored enemies.
-- [Rogue](http://www.d20pfsrd.com/classes/core-classes/rogue/): The rogue gains 1/6 of a new rogue talent.
