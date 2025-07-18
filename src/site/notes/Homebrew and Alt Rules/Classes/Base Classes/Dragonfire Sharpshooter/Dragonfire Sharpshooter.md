@@ -103,3 +103,12 @@ Starting at 4th level and every 4 levels afterwards, the Dragonfire Sharpshooter
 <br>
 ##### Musket Training (Ex)
 Starting at 6th level, the Dragonfire Sharpshooter increases her skill with two-handed firearms. He gains a bonus on damage rolls equal to her Dexterity modifier, and when she misfires with a two-handed firearm, the misfire value increases by 2 instead of 4. Every four levels thereafter (10th, 14th, and 18th), the bonus on damage rolls increases by +1.
+<br>
+### Favored Class Bonus Options
+The following are the different options for the special favored class bonuses for the Dragonfire Sharpshooter.
+- 
+
+> [!TODO] 
+
+<br>
+
