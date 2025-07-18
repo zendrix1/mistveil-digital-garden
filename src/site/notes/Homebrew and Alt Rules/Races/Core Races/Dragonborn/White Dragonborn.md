@@ -27,10 +27,3 @@ White Dragonborn, as is the same with [[Homebrew and Alt Rules/Races/Core Races/
 #### White Dragonborn Alternate Racial Traits
 - Alternate Natural Attack: Some Dragonborn are more inclined to fight with other natural weapons instead of their jaws. Select either claws (1d4 damage each) or tail slap (1d6 damage) and gain that natural attack instead of a natural bite attack. This racial trait modifies Bite.
 - Runner: All Dragonborn naturally have strong legs but some are born especially light and quick on their feet. Your base speed is 35 feet instead of 30 but your Natural Armor trait only grants a +1 natural armor bonus. This racial trait modifies Base Speed and Natural Armor. 
-<br>
-#### White Dragonborn Favored Class Bonuses
-- [Bard](https://www.d20pfsrd.com/classes/core-classes/bard/): Treat the [bard’s](https://www.d20pfsrd.com/classes/core-classes/bard) level as +1/2 level higher for the purpose of determining the effect of the [fascinate](https://www.d20pfsrd.com/classes/core-classes/bard#TOC-Fascinate-Su-) [bardic performance](https://www.d20pfsrd.com/classes/core-classes/bard#TOC-Bardic-Performance).
-- [Bloodrager](https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/): Add +1/2 round of bloodrage per day.
-- [Magus](https://www.d20pfsrd.com/classes/base-classes/magus/): Add a +1/2 bonus on [concentration](https://www.d20pfsrd.com/magic#TOC-Concentration) checks made to cast defensively.
-- [Skald](https://www.d20pfsrd.com/classes/hybrid-classes/skald/): Add one spell from the bard spell list to the skald’s list of spells known. This spell must be at least one level below the highest spell level he can cast.
-- [Swashbuckler](https://www.d20pfsrd.com/classes/hybrid-classes/swashbuckler/): Add +1/4 to the swashbuckler’s damage rolls on riposte attacks after a successful parry.
