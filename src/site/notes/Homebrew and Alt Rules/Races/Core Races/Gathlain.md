@@ -31,7 +31,3 @@ Mischievous and capricious, Gathlain have discordant temperaments. Most are chao
 #### Gathlain Alternate Racial Traits
 
 > [!TODO] TODO
-<br>
-#### Gathlain Favored Class Bonuses
-
-> [!TODO] TODO
