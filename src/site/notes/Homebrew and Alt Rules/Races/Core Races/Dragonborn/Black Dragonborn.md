@@ -27,11 +27,3 @@ Black Dragonborn are the smallest of the seven variations at an average height a
 #### Black Dragonborn Alternate Racial Traits
 - Alternate Natural Attack: Some Dragonborn are more inclined to fight with other natural weapons instead of their jaws. Select either claws (1d4 damage each) or tail slap (1d6 damage) and gain that natural attack instead of a natural bite attack. This racial trait modifies Bite.
 - Runner: All Dragonborn naturally have strong legs but some are born especially light and quick on their feet. Your base speed is 35 feet instead of 30 but your Natural Armor trait only grants a +1 natural armor bonus. This racial trait modifies Base Speed and Natural Armor.
-<br>
-#### Black Dragonborn Favored Class Bonuses
-- [Alchemist](https://www.d20pfsrd.com/classes/base-classes/alchemist/): Add +1/2 to the number of bombs per day the [alchemist](https://www.d20pfsrd.com/classes/base-classes/alchemist) can create.
-- [Rogue](https://www.d20pfsrd.com/classes/core-classes/rogue/): The rogue gains +1/6 of a new rogue [talent](https://www.d20pfsrd.com/classes/core-classes/rogue/rogue-talents).
-- [Slayer](https://www.d20pfsrd.com/classes/hybrid-classes/slayer/): Gain +1/6 of a new [slayer talent](https://www.d20pfsrd.com/classes/hybrid-classes/SLAYER/#TOC-Slayer-Talents).
-- [Sorcerer](https://www.d20pfsrd.com/classes/core-classes/sorcerer/): Add +1/2 point of acid damage to spells that deal acid damage cast by the [sorcerer](https://www.d20pfsrd.com/classes/core-classes/sorcerer).
-- [Summoner](https://www.d20pfsrd.com/classes/unchained-classes/summoner-unchained): Add +1/4 to the [summoner’s](https://www.d20pfsrd.com/classes/base-classes/summoner) shield ally bonus (maximum +2).
-- [Witch](https://www.d20pfsrd.com/classes/base-classes/witch/): Add one spell from the [witch](https://www.d20pfsrd.com/classes/base-classes/witch) spell list to the [witch’s](https://www.d20pfsrd.com/classes/base-classes/witch) familiar. This spell must be at least one level below the highest spell level the witch can cast. If the [witch](https://www.d20pfsrd.com/classes/base-classes/witch) ever replaces this familiar, the new familiar knows these bonus spells.
