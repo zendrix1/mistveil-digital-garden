@@ -29,13 +29,3 @@ The Vermane that can be found on the island nation of [[Known Continents/Mortend
 - Cornered Fury: Vermane can fight viciously when cut off from friends and allies. Whenever a Vermane with this racial trait is reduced to half or fewer of his hit points, and has no conscious ally within 30 feet, he gains a +2 racial bonus on melee attack rolls and to Armor Class. This racial trait replaces keen senses.
 
 > [!TODO] TODO
-<br>
-#### Vermane Favored Class Bonuses
-- Alchemist: The alchemist gains +1/6 of a new discovery.
-- Bard: Increase the bonus provided by the bard’s inspire competence performance by 1/6, and add 1/6 to the number of allies the bard can affect with his inspire greatness performance.
-- Druid: Add a +1 bonus on wild empathy checks made to influence animals and magical beasts that live underground.
-- Gunslinger: Add a +1/2 bonus on initiative checks when the gunslinger has at least 1 grit point.
-- Hunter: Add 1 skill rank to the hunter’s badger, dire rat, or riding rat animal companion.
-- Investigator: Add 1 to the bonus provided to a single skill (maximum +2) by inspiration. This skill must be one to which the investigator can already apply inspiration. The investigator can select a different skill at each level.
-- Ranger: Add +1 to an animal companion’s CMD when adjacent to the ranger. If the ranger ever replaces his animal companion, the new animal companion gains this bonus.
-- Rogue: Add a +1/2 bonus on Escape Artist checks.
