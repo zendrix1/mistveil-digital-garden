@@ -9,7 +9,7 @@
 <progress max=19 value=.5> </progress> 0.5/19
 
 ###### Creating Oranport
-<progress max=100 value=80> </progress> 80%
+<progress max=100 value=90> </progress> 90%
 
 ###### Making the Two Region Maps
 <progress max=100 value=100> </progress> 100%
