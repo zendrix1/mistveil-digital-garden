@@ -6,7 +6,7 @@
 > Tracker for all the pre-prep for my upcoming Tempest Basin game just to put things into focus for myself and for me to forget to update until someone asks me about it probably.
 
 ###### Hexes Finished (aka the real work I should be focusing on)
-<progress max=19 value=.5> </progress> 0.5/19
+<progress max=19 value=.75> </progress> 0.75/19
 
 ###### Creating Oranport
 <progress max=100 value=90> </progress> 90%
@@ -33,7 +33,7 @@
 <progress max=4 value=0> </progress> 0/4
 
 ###### Putting Stuff on Foundry
-<progress max=100 value=5> </progress> 5%
+<progress max=100 value=10> </progress> 10%
 
 ###### Making Dumb Tracker Web Page Instead of Actually Prepping
 <progress max=100 value=100> </progress> 100%
