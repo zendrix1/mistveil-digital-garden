@@ -18,7 +18,7 @@
 <progress max=100 value=75> </progress> 75%
 
 ###### Conceptualizing the Narrative
-<progress max=100 value=70> </progress> 70%
+<progress max=100 value=85> </progress> 85%
 
 ###### Creating Game Systems
 <progress max=100 value=30> </progress> 30%
