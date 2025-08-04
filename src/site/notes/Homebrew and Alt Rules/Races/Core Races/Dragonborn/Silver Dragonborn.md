@@ -3,7 +3,7 @@
 ---
 
 <sup><sup>[[Mistveil\|Mistveil]] → [[Homebrew and Alt Rules/Races/Races\|Races]] → [[Homebrew and Alt Rules/Races/Core Races/Dragonborn/Dragonborn\|Dragonborn]] → Silver Dragonborn</sup></sup>
-Although not quite as rare as their [[Homebrew and Alt Rules/Races/Core Races/Dragonborn/Gold Dragonborn\|Gold]] siblings, Silver Dragonborn are also a very rare variation of the race and are also seen as a good omen in the clans of the [[Known Continents/Mortend/Regions/The Deadlands/The Deadlands\|The Deadlands]]; of relief from extreme weather for the upcoming period of time. Physically Silver Dragonborn are on the smaller side of their race with an average height and weight of 5'8" and 230 pounds respectively. They are capable of breathing a cone of silvery moonlight and are also resistant to cold damage. 
+Although not quite as rare as their [[Homebrew and Alt Rules/Races/Core Races/Dragonborn/Gold Dragonborn\|Gold]] siblings, Silver Dragonborn are also a very rare variation of the race and are also seen as a good omen in the clans of [[Known Continents/Mortend/Regions/The Deadlands/The Deadlands\|The Deadlands]]; of relief from extreme weather for the upcoming period of time. Physically Silver Dragonborn are on the smaller side of their race with an average height and weight of 5'8" and 230 pounds respectively. They are capable of breathing a cone of silvery moonlight and are also resistant to cold damage. 
 <br>
 ### Silver Dragonborn Racial Traits
 - Ability Score Racial Traits: Silver Dragonborn are known for their empathy and intelligence but don't have the physical strength of some of their larger siblings. They gain +2 Intelligence, +2 Charisma, and -2 Strength.
