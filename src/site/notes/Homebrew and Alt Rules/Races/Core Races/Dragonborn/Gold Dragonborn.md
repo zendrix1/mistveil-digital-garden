@@ -3,7 +3,7 @@
 ---
 
 <sup><sup>[[Mistveil\|Mistveil]] → [[Homebrew and Alt Rules/Races/Races\|Races]] → [[Homebrew and Alt Rules/Races/Core Races/Dragonborn/Dragonborn\|Dragonborn]] → Gold Dragonborn</sup></sup>
-Gold Dragonborn are the rarest variation of the race, only born once every 300 years on average, and are seen as a good omen for the clan in the [[Known Continents/Mortend/Regions/The Deadlands/The Deadlands\|The Deadlands]]; a sign of upcoming prosperity or period of safety from outside threats. Physically a Gold Dragonborn has an average height and weight of 5'10" and 260 pounds respectively. They are capable of breathing a cone of sunlight and are resistant to fire damage. 
+Gold Dragonborn are the rarest variation of the race, only born once every 300 years on average, and are seen as a good omen for the clan in [[Known Continents/Mortend/Regions/The Deadlands/The Deadlands\|The Deadlands]]; a sign of upcoming prosperity or period of safety from outside threats. Physically a Gold Dragonborn has an average height and weight of 5'10" and 260 pounds respectively. They are capable of breathing a cone of sunlight and are resistant to fire damage. 
 <br>
 ### Gold Dragonborn Racial Traits
 - Ability Score Racial Traits: Gold Dragonborn are renowned for their wisdom and resilience but lack the physical deftness of some of their smaller siblings. They gain +2 Constitution, +2 Wisdom, and -2 Dexterity.
