@@ -3,11 +3,11 @@
 ---
 
 <sup><sup>[[Mistveil\|Mistveil]] → [[Homebrew and Alt Rules/Races/Races\|Races]] → Gith</sup></sup>
-One of the few races native to the [[Cosmology/Sea of Dreams\|Sea of Dreams]], the Gith are a collection of warriors, nomads, and "sailors" who create special ships that are able to sail on the [[Tears of Giants\|Tears of Giants]] using the [[Planar Winds\|Planar Winds]] to find new locations.
+One of the few races native to [[Cosmology/The Sea of Dreams\|The Sea of Dreams]], the Gith are a collection of warriors, nomads, and "sailors" who create special ships that are able to sail on the [[Tears of Giants\|Tears of Giants]] using the [[Planar Winds\|Planar Winds]] to find new locations.
 
 The race is split into two primary clans who have different ideals and goals with their travel. The Githyanki, which travel looking for new lands to conquer and create outposts, and the Githzerai who travel to absorb culture and attempt to discover enlightenment. The two clans war over territory on the rare occasion that they discover the same landmass but hold no animosity towards each other as a whole, both holding feelings of racial superiority.
 
-The Gith are infamous for their weapons and armor, wielding intricately carved equipment decorated with red gemstones similar to rubies and made out of a silvery metal native to the [[Cosmology/Sea of Dreams\|Sea of Dreams]].
+The Gith are infamous for their weapons and armor, wielding intricately carved equipment decorated with red gemstones similar to rubies and made out of a silvery metal native to [[Cosmology/The Sea of Dreams\|The Sea of Dreams]].
 
 The Githyanki hold a tradition of gifting a weapon to warriors they meet who they believe have potential but cannot currently match them. They expect the weapon to be returned when the receiver believes they are ready to fight the Githyanki in fair combat. If the receiver fails the Githyanki will consider them a unworthy and execute them but if they win in combat and the Githyanki survives, the Githyanki will grant the receiver any one favor they are capable of accomplishing. 
 
