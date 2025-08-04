@@ -12,8 +12,8 @@ Mistveil is a homebrew campaign setting created with Pathfinder 1e in mind which
 <br>
 ## Cosmology
 - [[Cosmology/Ethereum\|Ethereum]]
-- [[Cosmology/Far Realms\|Far Realms]]
-- [[Cosmology/Sea of Dreams\|Sea of Dreams]]
+- [[Cosmology/The Sleepless Realms\|The Sleepless Realms]]
+- [[Cosmology/The Sea of Dreams\|The Sea of Dreams]]
 <br>
 ### <sup> Inner Realms</sup>
 - [[Cosmology/Inner Realms/Celestial Planes of Heaven/Celestial Planes of Heaven\|Celestial Planes of Heaven]]
@@ -36,4 +36,4 @@ Mistveil is a homebrew campaign setting created with Pathfinder 1e in mind which
 - [[Homebrew and Alt Rules/Races/Races\|Races]]
 - [[Homebrew and Alt Rules/Rules/Rules\|Rules]]
 - [[Homebrew and Alt Rules/Spells/Spells\|Spells]]
-- [[Homebrew and Alt Rules/Traits\|Traits]]
+- [[Homebrew and Alt Rules/Misc/Traits\|Traits]]
