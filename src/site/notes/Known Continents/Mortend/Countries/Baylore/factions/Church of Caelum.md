@@ -4,7 +4,7 @@
 
 <sup><sup>[[Mistveil\|Mistveil]] → [[Known Continents/Mortend/Mortend\|Mortend]] → [[Known Continents/Mortend/Countries/Baylore/Divine Kingdom of Baylore\|Baylore]] → Church of Caelum</sup></sup>
 > [!todo] TODO
-> This is from a wiki of mine from an old setting, it's still 90% correct but needs to be updated for Baylore. Also need to add info about the church itself and the people who run it.
+> This is from a wiki of mine from an old setting, it's still 90% correct but needs to be updated for Baylore. Specifically the stuff about Esor or the Settlers is all out of date. Also need to add info about the church itself and the people who run it.
 
 The [Settlers](https://esor.fandom.com/wiki/Absit_Settlers "Absit Settlers") have brought their religion with them from Absit to the land of Esor but with any mass migration, certain aspects were bound to change. In Absit, the primary religion was a pantheon of six gods who were all viewed as equals. The only other worshiped force is called Caelum who is seen as the creator of all the other gods but has no traditional followers. After creating the world, Caelum split his body apart and each of his limbs formed into the new gods. His sword arm became [Ico](https://esor.fandom.com/wiki/Primary_Pantheon#Ico), his shield arm became [Muno](https://esor.fandom.com/wiki/Primary_Pantheon#Muno), his head became [Densum](https://esor.fandom.com/wiki/Primary_Pantheon#Densum), his body (and more so, his heart) became [Amor](https://esor.fandom.com/wiki/Primary_Pantheon#Amor), and his legs became the twin gods [Aria and Orion](https://esor.fandom.com/wiki/Primary_Pantheon#Aria_and_Orion).  
   
