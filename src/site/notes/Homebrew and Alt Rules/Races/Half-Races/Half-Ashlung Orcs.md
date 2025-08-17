@@ -28,9 +28,3 @@ These hybrids between [[Homebrew and Alt Rules/Races/Core Races/Ashlung Orcs\|As
 
 > [!TODO] TODO
 > Add more alt traits
-<br>
-#### Half-Ashlung Orc Favored Class Bonuses
-- Half-Ashlung Orcs share favored class options with their [[Homebrew and Alt Rules/Races/Core Races/Ashlung Orcs\|Ashlung Orc]] parent and [[Homebrew and Alt Rules/Races/Core Races/Humans\|Human]] parent.
-
-> [!TODO] TODO
-> Might change to unique favored class bonuses
