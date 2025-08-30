@@ -10,7 +10,7 @@ Skill challenges begin when the GM presents a situation and announces that the p
 1. The GM presents the objective, the number of rounds the players will have to complete their objective, and current obstacles the party is trying to overcome in order to complete that objective (more may reveal themselves as the skill challenge goes on).
 2. The GM tells the party what the base DC of the challenge will be, so the players have a sense on how likely they are to succeed or fail with their skills.
 3. In any order, each player (once per round) proposes which of the obstacles you've laid out that they would like to eliminate and pitches how they would use a skill that no one has used yet to do so. Alternatively they can offer to use their turn this round assisting another player instead.
-4. If they are trying to overcome an obstacle the GM decides if their proposal is viable or not and if it is, asks for a roll.
+4. If they are trying to overcome an obstacle, the GM decides if their proposal is viable or not and if it is they will ask for a roll.
 5. Based on the result of the roll, the GM describes the outcome and the party accrues one "success" or one "failure".
 6. Repeat steps 3–5 until the party completes their objective by accumulating a number of successes or fails to do so by accumulating too many failures or running out of time.
 <br>
@@ -91,7 +91,7 @@ Player C says she has an idea for obstacle 2 and suggests they use a special 1/d
 
 Player D is ready to participate now and decides they want to try and overcome obstacle 6 and save the hostage. They ask if they can use Handle Animal to get a nearby man's dog riled up and join the chase, grabbing at the Bomber's pant leg and slowing him down, forcing him to drop his hostage if he wants to get away. The player even has the *[Speak with Animals](https://www.d20pfsrd.com/magic/all-spells/s/speak-with-animals/)* spell and ask if they could use that in conjunction with their Handle Animal check. You allow it and decide to give the player a +2 on their roll. Player D makes they check and gets a 23. That's 3 successes and 1 failure.
 
-The first round as come to an end and the players are off to a good start, they only need 1 more success and can still manage a second failure without losing the skill challenge. So far they have eliminated obstacles 1, 2, 4, and 6 so only 3 and 5 remain. So far they have used up the Diplomacy, Disguise, Knowledge (Engineering), and Handle Animal skills so they can't be used again in round 2.
+The first round has come to an end and the players are off to a good start, they only need 1 more success and can still manage a second failure without losing the skill challenge. So far they have eliminated obstacles 1, 2, 4, and 6 so only 3 and 5 remain. So far they have used up the Diplomacy, Disguise, Knowledge (Engineering), and Handle Animal skills so they can't be used again in round 2.
 
 The players talk it over and although the mysterious stranger seems like a problem, they have no idea what the special failure state for that obstacle could be. Meanwhile they have a pretty good idea of what failing to handle the bomb traps will do so deciding the devil you know is best, they want to tackle obstacle 3.
 
