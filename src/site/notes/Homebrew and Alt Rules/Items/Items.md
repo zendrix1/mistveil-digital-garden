@@ -16,6 +16,7 @@
 |         [[Homebrew and Alt Rules/Items/Gythka\|Gythka]]         |   60gp   | 20 lb  |                -                 | None (held) |                                                 -                                                 |
 |      [[Homebrew and Alt Rules/Items/Shatterheart\|Shatterheart]]      | 70,000gp |  4 lb  | Strong Transmutation & Evocation | None (held) |                                                 -                                                 |
 |   [[Homebrew and Alt Rules/Items/Warlock’s Scepter\|Warlock’s Scepter]]    |  Varies  |  3 lb  |              Varies              | None (held) |                                                 -                                                 |
+### Special Materials ###
 
 | <center>Special Materials</center> |                                               Description                                                |
 | ----------------- | :------------------------------------------------------------------------------------------------------: |
@@ -28,7 +29,7 @@
 |          [Backpack](https://2e.aonprd.com/Equipment.aspx?ID=2704&Redirected=1)          |   1sp   |  *   |          -           |  -   |                                                        -                                                         |
 | [Bag of Holding (Types I-IV)](https://2e.aonprd.com/Equipment.aspx?ID=249&NoRedirect=1) |    *    |  1   | Moderate Conjuration |  -   | Still uses pf1e [Bag of Holding](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bag-of-holding/) Prices |
 |                       [[Homebrew and Alt Rules/Items/Handy Haversack (Bulk)\|Handy Haversack]]                       | 1,800gp |  *   | Moderate Conjuration |  -   |                                                        -                                                         |
-### Weapon Enhancements###
+### Weapon Enhancements ###
 
 |    Special Ability    | Base Price Modifier |
 | :-------------------: | :-----------------: |
