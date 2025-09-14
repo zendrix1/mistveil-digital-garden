@@ -28,3 +28,8 @@
 |          [Backpack](https://2e.aonprd.com/Equipment.aspx?ID=2704&Redirected=1)          |   1sp   |  *   |          -           |  -   |                                                        -                                                         |
 | [Bag of Holding (Types I-IV)](https://2e.aonprd.com/Equipment.aspx?ID=249&NoRedirect=1) |    *    |  1   | Moderate Conjuration |  -   | Still uses pf1e [Bag of Holding](https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bag-of-holding/) Prices |
 |                       [[Homebrew and Alt Rules/Items/Handy Haversack (Bulk)\|Handy Haversack]]                       | 1,800gp |  *   | Moderate Conjuration |  -   |                                                        -                                                         |
+### Weapon Enhancements###
+
+|    Special Ability    | Base Price Modifier |
+| :-------------------: | :-----------------: |
+| [[Homebrew and Alt Rules/Items/Spell Splintering\|Spell Splintering]] |      +2 bonus       |
