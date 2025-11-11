@@ -4,6 +4,9 @@
 
 <sup><sup>[[Mistveil\|Mistveil]] → [[Homebrew and Alt Rules/Tempest Basin Campaign/Tempest Basin Campaign\|Tempest Basin Campaign]] → Prep Progress</sup></sup>
 > [!NOTE] 
+> I can't type worth shit anymore for long periods of time...which is sort of needed for this game, so it is somewhat on hold.
+
+> [!NOTE] 
 > Tracker for all the pre-prep for my upcoming Tempest Basin game just to put things into focus for myself and for me to forget to update until someone asks me about it probably.
 
 ###### Hexes Finished (aka the real work I should be focusing on)
